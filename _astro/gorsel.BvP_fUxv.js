@@ -1,0 +1,1 @@
+var e=/^ornek-(aroma|kit|baz)(__\d+)?\.png$/,t=/\/ornek-(aroma|kit|baz)(__\d+)?__preview\.png(\?|$)/;function n(n){return n?e.test(n.name??``)||t.test(n.preview??``)?null:n:null}export{n as t};
