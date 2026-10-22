@@ -1,0 +1,30 @@
+# Kuantum Kimya
+
+> Kendin yap likit malzemeleri: konsantre ve karışım aromalar, bazlar ve hazır şişeler. Ölçüsünü sen koyarsın.
+
+Sitenin adresi: https://kuantumkimya.github.io/
+
+## Raflar
+
+- [Aromalar](https://kuantumkimya.github.io/aromalar/)
+- [DIY kitler](https://kuantumkimya.github.io/diy-kitler/)
+- [Bazlar](https://kuantumkimya.github.io/bazlar/)
+
+## Araçlar
+
+- [Tarif hesabı](https://kuantumkimya.github.io/tarif-hesabi/): Şişeni ya da elindeki bazı, aromanı ve oranı seç; kaç ml koyacağını yazalım. Üyelik gerekmez.
+
+## Rehber
+
+- [İlk tarifim](https://kuantumkimya.github.io/rehber/ilk-tarifim/): Bir aroma, biraz baz ve boş bir şişe. İlk karışımın altı adımda hazır; gerisini zaman tamamlar.
+- [Konsantre mi, karışım mı, hazır şişe mi](https://kuantumkimya.github.io/rehber/konsantre-karisim-hazir-sise/): Üç yol, üç ayrı keyif. Hangisinin sana uyduğu, ölçüyle ne kadar oynamak istediğine bağlı.
+- [Hazır şişe nasıl hazırlanır](https://kuantumkimya.github.io/rehber/hazir-sise-hazirlama/): Aroma şişede ölçülü gelir, sen bazını eklersin. Üç adım ve biraz sabır.
+- [VG ve PG](https://kuantumkimya.github.io/rehber/vg-ve-pg/): Bazın iki yüzü. Biri kıvam ve yumuşaklık verir, öbürü tadı taşır; oran bu ikisinin dengesidir.
+- [Oran nasıl kurulur](https://kuantumkimya.github.io/rehber/oran-nasil-kurulur/): Oran, aromanın şişedeki payıdır. Az kalırsa tat solgun, çok olursa ağır olur; doğru ölçü ikisinin arasındadır.
+- [Teraziyle karıştırmak](https://kuantumkimya.github.io/rehber/teraziyle-karistirma/): Koyu VG şırıngada ölçü kaçırır, terazi kaçırmaz. Gramla çalışmak daha hızlı, daha temiz ve daha kesindir.
+- [Demleme ve ultrasonik demleme](https://kuantumkimya.github.io/rehber/demleme/): Karıştırdığın gün tat henüz dağınıktır. Beklerken aroma bazla kaynaşır ve tat yerine oturur.
+- [Saklama](https://kuantumkimya.github.io/rehber/saklama/): Aroma ışıktan, sıcaktan ve havadan yorulur. Serin, karanlık bir dolap ve sıkı bir kapak tadı uzun süre taze tutar.
+- [Aroma markaları](https://kuantumkimya.github.io/rehber/aroma-markalari/): TFA, Capella, FlavourArt, Inawera ve Drifter Bar. Her markanın kendi karakteri, kendi ölçüsü var.
+- [Tatlandırıcı, serinletici ve yuvarlatıcı](https://kuantumkimya.github.io/rehber/tatlandirici-serinletici-yuvarlatici/): Tarifin ince ayarı. Biri tatlılık katar, biri serinlik bırakır, biri keskin kenarları yumuşatır; üçü de az kullanılır.
+- [Kendi karışımını kurmak](https://kuantumkimya.github.io/rehber/kendi-karisimini-kurmak/): İyi bir karışım iyi bir tabak gibidir. Bir ana tat, onu taşıyan destekler ve küçük bir dokunuş.
+- [Sık yapılan hatalar](https://kuantumkimya.github.io/rehber/sik-yapilan-hatalar/): Tadı bozan çoğu zaman aromanın kendisi değil, küçük bir ölçü ya da sabır hatasıdır. Hepsinin çaresi basit.

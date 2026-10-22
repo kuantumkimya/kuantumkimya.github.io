@@ -1,0 +1,1 @@
+var e=`/tarif-hesabi/`,t=`/odeme/`,n=`siparis`,r=[`/`,e,t];function i(e){return r.includes(e.endsWith(`/`)?e:`${e}/`)}function a(e){return`/tesekkurler/?${n}=${encodeURIComponent(e)}`}export{i as n,a as r,n as t};

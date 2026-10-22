@@ -1,0 +1,1 @@
+var e=0;document.addEventListener(`astro:after-swap`,()=>{e+=1});function t(t){let n=-1,r,i=()=>{n!==e&&(n=e,r=new AbortController,t(r.signal))};document.addEventListener(`astro:before-swap`,()=>r?.abort()),document.addEventListener(`astro:page-load`,i),i()}export{t};

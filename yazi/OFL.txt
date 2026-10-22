@@ -1,27 +1,13 @@
-Kuantum Kimya vitrininin yazı tipleri. Hepsi SIL Open Font License 1.1 ile lisanslıdır; lisansın tam metni aşağıdadır.
-Dosyalar özgün yazı tiplerinin Latin ve Türkçe harflerle sınırlı alt kümesidir (fontTools ile; değişken eksenler
-daraltıldı). Lisansta ayrılmış ad bulunan yazı tipinde (Lexend) değiştirilmiş sürüm o adla anılmaz.
+Kuantum Kimya vitrininin yazı tipleri. İkisi de SIL Open Font License 1.1 ile lisanslıdır; lisansın tam metni aşağıdadır.
+Dosyalar özgün yazı tiplerinin Latin ve Türkçe harflerle (₺ dahil) sınırlı alt kümesidir (fontTools ile; ağırlık ekseni
+daraltıldı). Lisansta ayrılmış ad yoktur.
 
 ------------------------------------------------------------------------
 
-Copyright 2022 The Figtree Project Authors (https://github.com/erikdkennedy/figtree)
-Dosya: figtree-tr.woff2 (Figtree; ağırlık 400-700; 20.10.2026'da aynı harf takımıyla yeniden üretildi).
-
-------------------------------------------------------------------------
-
-Copyright 2019 The Sofia Sans Project Authors (https://github.com/lettersoup/Sofia-Sans)
-Dosya: sofia-sans-extra-condensed-tr.woff2 (Sofia Sans Extra Condensed; ağırlık 700-800).
-
-------------------------------------------------------------------------
-
-Copyright 2015 The Courier Prime Project Authors (https://github.com/quoteunquoteapps/CourierPrime).
-Dosya: courier-prime-tr.woff2 (Courier Prime; ağırlık 400).
-
-------------------------------------------------------------------------
-
-Copyright 2018 The Lexend Project Authors (https://github.com/googlefonts/lexend), with Reserved Font Name "RevReading Lexend".
-Dosya: tl-isareti.woff2. Lexend'in yalnız ₺ işaretini taşıyan değiştirilmiş alt kümesidir (ağırlık 300-800); öbür yazı
-tiplerinde ₺ işareti olmadığı için yalnız bu işarette kullanılır.
+Copyright 2023 The Wix Madefor Project Authors (https://github.com/wix/wixmadefor)
+Dosya: madefor-display-tr.woff2 (Wix Madefor Display; ağırlık 600-800; başlıklar ve logo).
+Dosya: madefor-text-tr.woff2 (Wix Madefor Text; ağırlık 400-700; okunan her yazı).
+Kaynak: Google Fonts deposu (github.com/google/fonts, ofl/wixmadefordisplay ve ofl/wixmadefortext), 22.10.2026.
 
 ------------------------------------------------------------------------
 
