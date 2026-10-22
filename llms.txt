@@ -34,82 +34,93 @@ Sitenin adresi: https://kuantumkimya.github.io/
 
 ## Tarifler
 
+- [Tribeca](https://kuantumkimya.github.io/tarifler/tribeca/): vanilyalı, karamelli yumuşak tütün
+- [Castle Long](https://kuantumkimya.github.io/tarifler/castle-long/): vanilyalı, hindistan cevizli, karamelli tütün
+- [Lemon Tart](https://kuantumkimya.github.io/tarifler/lemon-tart/): limonlu tart
+- [Unicorn Milk](https://kuantumkimya.github.io/tarifler/unicorn-milk/): çilekli süt ve cheesecake
+- [Brain Freeze](https://kuantumkimya.github.io/tarifler/brain-freeze/): buzlu çilek ve nar
+- [Cheesecake](https://kuantumkimya.github.io/tarifler/cheesecake/): sade cheesecake
+- [Watermelon Ice](https://kuantumkimya.github.io/tarifler/watermelon-ice/): buzlu karpuz
+- [Lava Flow](https://kuantumkimya.github.io/tarifler/lava-flow/): çilek, ananas ve hindistan cevizi
+- [Strawberry Ice](https://kuantumkimya.github.io/tarifler/strawberry-ice/): buzlu çilek
+- [Menthol](https://kuantumkimya.github.io/tarifler/menthol/): saf mentol
+- [Strawberry Banana](https://kuantumkimya.github.io/tarifler/strawberry-banana/): çilek ve muz
+- [Mango Ice](https://kuantumkimya.github.io/tarifler/mango-ice/): buzlu mango
+- [Latte](https://kuantumkimya.github.io/tarifler/latte/): sütlü kahve
+- [Strawberry Kiwi](https://kuantumkimya.github.io/tarifler/strawberry-kiwi/): çilek ve kivi
+- [Cotton Candy](https://kuantumkimya.github.io/tarifler/cotton-candy/): pamuk şeker
+- [Peach Ice](https://kuantumkimya.github.io/tarifler/peach-ice/): buzlu şeftali
+- [Double Apple](https://kuantumkimya.github.io/tarifler/double-apple/): nargile elması
+- [Vanilla Custard](https://kuantumkimya.github.io/tarifler/vanilla-custard/): vanilyalı muhallebi
+- [Mango Peach](https://kuantumkimya.github.io/tarifler/mango-peach/): mango ve şeftali
+- [Blue Razz Ice](https://kuantumkimya.github.io/tarifler/blue-razz-ice/): buzlu mavi ahududu
+- [Apple Pie](https://kuantumkimya.github.io/tarifler/apple-pie/): elmalı turta
+- [Blueberry Bubblegum](https://kuantumkimya.github.io/tarifler/blueberry-bubblegum/): yaban mersinli sakız
+- [Strawberry Watermelon](https://kuantumkimya.github.io/tarifler/strawberry-watermelon/): çilek ve karpuz
+- [Vanilla Bean Ice Cream](https://kuantumkimya.github.io/tarifler/vanilla-bean-ice-cream/): vanilya taneli dondurma
+- [Watermelon Candy](https://kuantumkimya.github.io/tarifler/watermelon-candy/): ekşi karpuz şekeri
+- [Pineapple Ice](https://kuantumkimya.github.io/tarifler/pineapple-ice/): buzlu ananas
+- [Bubble Gum](https://kuantumkimya.github.io/tarifler/bubble-gum/): balonlu sakız
+- [Cinnamon Roll](https://kuantumkimya.github.io/tarifler/cinnamon-roll/): tarçınlı rulo çörek
+- [Strawberry Cheesecake](https://kuantumkimya.github.io/tarifler/strawberry-cheesecake/): çilekli cheesecake
+- [Looper](https://kuantumkimya.github.io/tarifler/looper/): meyveli halka gevrek ve süt
+- [Tiramisu](https://kuantumkimya.github.io/tarifler/tiramisu/): tiramisu
+- [Ella’s Shortbread](https://kuantumkimya.github.io/tarifler/ellas-shortbread/): tereyağlı vanilyalı kurabiye
+- [S’mores](https://kuantumkimya.github.io/tarifler/smores/): kızarmış marshmallow, bisküvi ve çikolata
+- [Black Honey](https://kuantumkimya.github.io/tarifler/black-honey/): ballı tütün
+- [Strawberry Fog](https://kuantumkimya.github.io/tarifler/strawberry-fog/): çilekli cheesecake kreması
+- [Nana Cream](https://kuantumkimya.github.io/tarifler/nana-cream/): muzlu krema
+- [Juicy Peach](https://kuantumkimya.github.io/tarifler/juicy-peach/): sulu şeftali
+- [Banana Split](https://kuantumkimya.github.io/tarifler/banana-split/): muzlu dondurma, çilek ve çikolata
+- [Fudge Brownie](https://kuantumkimya.github.io/tarifler/fudge-brownie/): yoğun çikolatalı brownie
+- [Strawberry Shortcake](https://kuantumkimya.github.io/tarifler/strawberry-shortcake/): çilekli kurabiyeli dondurma
+- [Blueberry Cheesecake](https://kuantumkimya.github.io/tarifler/blueberry-cheesecake/): yaban mersinli cheesecake
+- [Raspberry Sorbet](https://kuantumkimya.github.io/tarifler/raspberry-sorbet/): ahududulu sorbe
+- [Cavendish](https://kuantumkimya.github.io/tarifler/cavendish/): tatlı pipo tütünü
+- [Mixed Berry](https://kuantumkimya.github.io/tarifler/mixed-berry/): karışık orman meyveleri
+- [Arctic Berries](https://kuantumkimya.github.io/tarifler/arctic-berries/): buzlu orman meyveleri
+- [Fresh Watermelon](https://kuantumkimya.github.io/tarifler/fresh-watermelon/): taze karpuz
+- [Cush Man](https://kuantumkimya.github.io/tarifler/cush-man/): olgun mango
 - [RY4 Delight](https://kuantumkimya.github.io/tarifler/ry4-delight/): kremalı karamelli tütün
+- [VCT](https://kuantumkimya.github.io/tarifler/vct/): vanilyalı muhallebili tütün
+- [Captain Black](https://kuantumkimya.github.io/tarifler/captain-black/): vanilyalı pipo tütünü
 - [Mama Melons](https://kuantumkimya.github.io/tarifler/mama-melons/): kavun, mango ve papaya
 - [Frosted Flakes](https://kuantumkimya.github.io/tarifler/frosted-flakes/): şekerli mısır gevreği ve süt
-- [Strawberry Fog](https://kuantumkimya.github.io/tarifler/strawberry-fog/): çilekli cheesecake kreması
-- [Unicorn Milk](https://kuantumkimya.github.io/tarifler/unicorn-milk/): çilekli süt ve cheesecake
 - [Kiss](https://kuantumkimya.github.io/tarifler/kiss/): çilekli sütlü çikolata
 - [Strawnana Custard](https://kuantumkimya.github.io/tarifler/strawnana-custard/): çilekli muzlu muhallebi
 - [Cinapple Fritter](https://kuantumkimya.github.io/tarifler/cinapple-fritter/): tarçınlı elmalı çörek
 - [Candybeca](https://kuantumkimya.github.io/tarifler/candybeca/): karamelli tütün ve bisküvi
-- [Strawberry Shortcake](https://kuantumkimya.github.io/tarifler/strawberry-shortcake/): çilekli kurabiyeli dondurma
 - [Tiger’s Blood](https://kuantumkimya.github.io/tarifler/tigers-blood/): karpuz, çilek ve hindistan cevizi
 - [Raspberry Custard](https://kuantumkimya.github.io/tarifler/raspberry-custard/): ahududulu muhallebi
-- [Ella’s Shortbread](https://kuantumkimya.github.io/tarifler/ellas-shortbread/): tereyağlı vanilyalı kurabiye
 - [Sugar Rush](https://kuantumkimya.github.io/tarifler/sugar-rush/): şekerli kurabiye ve krema
-- [Lemon Tart](https://kuantumkimya.github.io/tarifler/lemon-tart/): limonlu tart
 - [Birthday Cake](https://kuantumkimya.github.io/tarifler/birthday-cake/): kremalı doğum günü pastası
-- [Looper](https://kuantumkimya.github.io/tarifler/looper/): meyveli halka gevrek ve süt
 - [Poptart](https://kuantumkimya.github.io/tarifler/poptart/): çilek dolgulu çıtır hamur
-- [Vanilla Custard](https://kuantumkimya.github.io/tarifler/vanilla-custard/): vanilyalı muhallebi
 - [Soft Choco Cookies](https://kuantumkimya.github.io/tarifler/soft-choco-cookies/): yumuşak çikolatalı kurabiye
 - [Banana Pudding](https://kuantumkimya.github.io/tarifler/banana-pudding/): muzlu puding ve bisküvi
 - [Carabeca](https://kuantumkimya.github.io/tarifler/carabeca/): karamelli vanilyalı tütün
 - [Twister Lolly](https://kuantumkimya.github.io/tarifler/twister-lolly/): ananaslı çilekli buz dondurma
 - [Snowy Fuji](https://kuantumkimya.github.io/tarifler/snowy-fuji/): serin elma ve krema
 - [Barney Rubble](https://kuantumkimya.github.io/tarifler/barney-rubble/): meyveli pirinç gevreği ve süt
-- [Cheesecake](https://kuantumkimya.github.io/tarifler/cheesecake/): sade cheesecake
 - [Pineapple Cheesecake](https://kuantumkimya.github.io/tarifler/pineapple-cheesecake/): ananaslı cheesecake
-- [Lava Flow](https://kuantumkimya.github.io/tarifler/lava-flow/): çilek, ananas ve hindistan cevizi
-- [Nana Cream](https://kuantumkimya.github.io/tarifler/nana-cream/): muzlu krema
 - [Lemon Pound Cake](https://kuantumkimya.github.io/tarifler/lemon-pound-cake/): limonlu kek
 - [Cinnamon Cookie Custard](https://kuantumkimya.github.io/tarifler/cinnamon-cookie-custard/): tarçınlı kurabiye ve muhallebi
 - [Sparkling Apple Peach](https://kuantumkimya.github.io/tarifler/sparkling-apple-peach/): köpüklü elma ve şeftali
-- [Strawberry Cheesecake](https://kuantumkimya.github.io/tarifler/strawberry-cheesecake/): çilekli cheesecake
 - [Butter Cookies](https://kuantumkimya.github.io/tarifler/butter-cookies/): tereyağlı kurabiye
 - [Dragon Fruit Cream](https://kuantumkimya.github.io/tarifler/dragon-fruit-cream/): ejder meyveli krema
 - [Strawberry Ice Cream](https://kuantumkimya.github.io/tarifler/strawberry-ice-cream/): çilekli dondurma
 - [Cereal Milk](https://kuantumkimya.github.io/tarifler/cereal-milk/): mısır gevrekli süt
 - [Cannoli](https://kuantumkimya.github.io/tarifler/cannoli/): İtalyan ricottalı tatlısı
-- [Tribeca](https://kuantumkimya.github.io/tarifler/tribeca/): vanilyalı, karamelli yumuşak tütün
-- [Castle Long](https://kuantumkimya.github.io/tarifler/castle-long/): vanilyalı, hindistan cevizli, karamelli tütün
-- [Brain Freeze](https://kuantumkimya.github.io/tarifler/brain-freeze/): buzlu çilek ve nar
-- [Cush Man](https://kuantumkimya.github.io/tarifler/cush-man/): olgun mango
-- [VCT](https://kuantumkimya.github.io/tarifler/vct/): vanilyalı muhallebili tütün
-- [Captain Black](https://kuantumkimya.github.io/tarifler/captain-black/): vanilyalı pipo tütünü
-- [Watermelon Ice](https://kuantumkimya.github.io/tarifler/watermelon-ice/): buzlu karpuz
-- [Strawberry Watermelon](https://kuantumkimya.github.io/tarifler/strawberry-watermelon/): çilek ve karpuz
-- [Mango Ice](https://kuantumkimya.github.io/tarifler/mango-ice/): buzlu mango
-- [Blue Razz Ice](https://kuantumkimya.github.io/tarifler/blue-razz-ice/): buzlu mavi ahududu
-- [Peach Ice](https://kuantumkimya.github.io/tarifler/peach-ice/): buzlu şeftali
-- [Strawberry Banana](https://kuantumkimya.github.io/tarifler/strawberry-banana/): çilek ve muz
-- [Mixed Berry](https://kuantumkimya.github.io/tarifler/mixed-berry/): karışık orman meyveleri
-- [Apple Pie](https://kuantumkimya.github.io/tarifler/apple-pie/): elmalı turta
-- [Tiramisu](https://kuantumkimya.github.io/tarifler/tiramisu/): tiramisu
 - [Cookies and Cream](https://kuantumkimya.github.io/tarifler/cookies-and-cream/): kakaolu bisküvili dondurma
-- [S’mores](https://kuantumkimya.github.io/tarifler/smores/): kızarmış marshmallow, bisküvi ve çikolata
-- [Cinnamon Roll](https://kuantumkimya.github.io/tarifler/cinnamon-roll/): tarçınlı rulo çörek
 - [Peaches and Cream](https://kuantumkimya.github.io/tarifler/peaches-and-cream/): şeftalili krema
-- [Banana Split](https://kuantumkimya.github.io/tarifler/banana-split/): muzlu dondurma, çilek ve çikolata
 - [Strawberries and Cream](https://kuantumkimya.github.io/tarifler/strawberries-and-cream/): çilek ve krema
 - [Piña Colada](https://kuantumkimya.github.io/tarifler/pina-colada/): ananas ve hindistan cevizi kreması
 - [Lemon Meringue Pie](https://kuantumkimya.github.io/tarifler/lemon-meringue-pie/): limonlu beze turtası
-- [Blueberry Cheesecake](https://kuantumkimya.github.io/tarifler/blueberry-cheesecake/): yaban mersinli cheesecake
 - [Peach Cobbler](https://kuantumkimya.github.io/tarifler/peach-cobbler/): fırında şeftali tatlısı
 - [Churros](https://kuantumkimya.github.io/tarifler/churros/): tarçınlı çıtır hamur ve çikolata
 - [Caramel Apple](https://kuantumkimya.github.io/tarifler/caramel-apple/): karamel kaplı elma
 - [Gummy Bears](https://kuantumkimya.github.io/tarifler/gummy-bears/): meyveli ayıcık şekeri
-- [Bubble Gum](https://kuantumkimya.github.io/tarifler/bubble-gum/): balonlu sakız
-- [Cotton Candy](https://kuantumkimya.github.io/tarifler/cotton-candy/): pamuk şeker
-- [Watermelon Candy](https://kuantumkimya.github.io/tarifler/watermelon-candy/): ekşi karpuz şekeri
 - [Peach Rings](https://kuantumkimya.github.io/tarifler/peach-rings/): ekşi şeftali halka şekeri
-- [Double Apple](https://kuantumkimya.github.io/tarifler/double-apple/): nargile elması
-- [Strawberry Kiwi](https://kuantumkimya.github.io/tarifler/strawberry-kiwi/): çilek ve kivi
-- [Mango Peach](https://kuantumkimya.github.io/tarifler/mango-peach/): mango ve şeftali
 - [Mango Strawberry](https://kuantumkimya.github.io/tarifler/mango-strawberry/): mango ve çilek
-- [Fresh Watermelon](https://kuantumkimya.github.io/tarifler/fresh-watermelon/): taze karpuz
-- [Juicy Peach](https://kuantumkimya.github.io/tarifler/juicy-peach/): sulu şeftali
 - [Sour Green Apple](https://kuantumkimya.github.io/tarifler/sour-green-apple/): ekşi yeşil elma
 - [Honeydew Melon](https://kuantumkimya.github.io/tarifler/honeydew-melon/): bal kavunu
 - [Melon Trio](https://kuantumkimya.github.io/tarifler/melon-trio/): kavun, bal kavunu ve karpuz
@@ -118,13 +129,7 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Apple Kiwi](https://kuantumkimya.github.io/tarifler/apple-kiwi/): elma ve kivi
 - [Blueberry Lemon](https://kuantumkimya.github.io/tarifler/blueberry-lemon/): yaban mersini ve limon
 - [Pomegranate Raspberry](https://kuantumkimya.github.io/tarifler/pomegranate-raspberry/): nar ve ahududu
-- [Strawberry Ice](https://kuantumkimya.github.io/tarifler/strawberry-ice/): buzlu çilek
-- [Pineapple Ice](https://kuantumkimya.github.io/tarifler/pineapple-ice/): buzlu ananas
-- [Arctic Berries](https://kuantumkimya.github.io/tarifler/arctic-berries/): buzlu orman meyveleri
 - [Lemon Sorbet](https://kuantumkimya.github.io/tarifler/lemon-sorbet/): limonlu sorbe
-- [Raspberry Sorbet](https://kuantumkimya.github.io/tarifler/raspberry-sorbet/): ahududulu sorbe
-- [Menthol](https://kuantumkimya.github.io/tarifler/menthol/): saf mentol
-- [Blueberry Bubblegum](https://kuantumkimya.github.io/tarifler/blueberry-bubblegum/): yaban mersinli sakız
 - [Apple Crumble](https://kuantumkimya.github.io/tarifler/apple-crumble/): kıtır kaplı elma tatlısı
 - [Apple Cinnamon](https://kuantumkimya.github.io/tarifler/apple-cinnamon/): elmalı tarçın
 - [Lemon Cheesecake](https://kuantumkimya.github.io/tarifler/lemon-cheesecake/): limonlu cheesecake
@@ -138,7 +143,6 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Strawberry Macaron](https://kuantumkimya.github.io/tarifler/strawberry-macaron/): çilekli makaron
 - [Vanilla Tart](https://kuantumkimya.github.io/tarifler/vanilla-tart/): vanilyalı tart
 - [Red Velvet Cake](https://kuantumkimya.github.io/tarifler/red-velvet-cake/): kırmızı kadife pasta
-- [Fudge Brownie](https://kuantumkimya.github.io/tarifler/fudge-brownie/): yoğun çikolatalı brownie
 - [Eton Mess](https://kuantumkimya.github.io/tarifler/eton-mess/): çilek, beze ve krema
 - [Peach Melba](https://kuantumkimya.github.io/tarifler/peach-melba/): şeftali, ahududu ve vanilyalı dondurma
 - [Strawberry Jam Toast](https://kuantumkimya.github.io/tarifler/strawberry-jam-toast/): tereyağlı çilek reçelli kızarmış ekmek
@@ -149,9 +153,7 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Banana Custard](https://kuantumkimya.github.io/tarifler/banana-custard/): muzlu muhallebi
 - [Coconut Cream Pie](https://kuantumkimya.github.io/tarifler/coconut-cream-pie/): hindistan cevizli kremalı turta
 - [Neapolitan](https://kuantumkimya.github.io/tarifler/neapolitan/): vanilya, çilek ve çikolatalı dondurma
-- [Vanilla Bean Ice Cream](https://kuantumkimya.github.io/tarifler/vanilla-bean-ice-cream/): vanilya taneli dondurma
 - [Profiterole](https://kuantumkimya.github.io/tarifler/profiterole/): kremalı çikolatalı profiterol
-- [Latte](https://kuantumkimya.github.io/tarifler/latte/): sütlü kahve
 - [Caramel Macchiato](https://kuantumkimya.github.io/tarifler/caramel-macchiato/): karamelli kahve
 - [Mocha](https://kuantumkimya.github.io/tarifler/mocha/): çikolatalı kahve
 - [Hot Cocoa](https://kuantumkimya.github.io/tarifler/hot-cocoa/): marshmallowlu sıcak çikolata
@@ -160,7 +162,6 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Almond Cream](https://kuantumkimya.github.io/tarifler/almond-cream/): kavrulmuş bademli krema
 - [Chocolate Banana](https://kuantumkimya.github.io/tarifler/chocolate-banana/): çikolatalı muz
 - [Bourbon Tobacco](https://kuantumkimya.github.io/tarifler/bourbon-tobacco/): burbonlu tütün
-- [Black Honey](https://kuantumkimya.github.io/tarifler/black-honey/): ballı tütün
 - [Oak & Whisky](https://kuantumkimya.github.io/tarifler/oak-whisky/): meşe ve viskili tütün
 - [Espresso Tobacco](https://kuantumkimya.github.io/tarifler/espresso-tobacco/): kahveli tütün
 - [Chocolate RY4](https://kuantumkimya.github.io/tarifler/chocolate-ry4/): çikolatalı karamelli tütün
@@ -168,28 +169,31 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Soho Vanilla](https://kuantumkimya.github.io/tarifler/soho-vanilla/): vanilyalı tütün
 - [Black Mile Cream](https://kuantumkimya.github.io/tarifler/black-mile-cream/): kremalı koyu tütün
 - [Red Oak Custard](https://kuantumkimya.github.io/tarifler/red-oak-custard/): meşeli tütün ve muhallebi
-- [Cavendish](https://kuantumkimya.github.io/tarifler/cavendish/): tatlı pipo tütünü
+- [Boss Reserve](https://kuantumkimya.github.io/tarifler/boss-reserve/): karamelli fındıklı tütün
+- [Milk & Honey](https://kuantumkimya.github.io/tarifler/milk-and-honey/): ballı süt
+- [Heisenberg](https://kuantumkimya.github.io/tarifler/heisenberg/): buzlu orman meyvesi ve anason
+- [Lemon Lime](https://kuantumkimya.github.io/tarifler/lemon-lime/): limon ve misket limonu
+- [Spearmint](https://kuantumkimya.github.io/tarifler/spearmint/): nane
 - [Strawberry Milkshake](https://kuantumkimya.github.io/tarifler/strawberry-milkshake/): çilekli milkshake
+- [Guava Passion](https://kuantumkimya.github.io/tarifler/guava-passion/): guava ve çarkıfelek
+- [Hazelnut Latte](https://kuantumkimya.github.io/tarifler/hazelnut-latte/): fındıklı sütlü kahve
+- [Blackberry Crumble](https://kuantumkimya.github.io/tarifler/blackberry-crumble/): böğürtlenli kıtır tatlı
+- [Tropical Punch](https://kuantumkimya.github.io/tarifler/tropical-punch/): tropik meyve punch
+- [Irish Cream](https://kuantumkimya.github.io/tarifler/irish-cream/): İrlanda kreması ve kahve
+- [Cool Mint](https://kuantumkimya.github.io/tarifler/cool-mint/): serin nane şekeri
+- [Chocolate Milk](https://kuantumkimya.github.io/tarifler/chocolate-milk/): kakaolu süt
+- [Glazed Donut](https://kuantumkimya.github.io/tarifler/glazed-donut/): şekerli donut
+- [Blue Raspberry Lemonade](https://kuantumkimya.github.io/tarifler/blue-raspberry-lemonade/): mavi ahududulu limonata
 - [Apple Bacco](https://kuantumkimya.github.io/tarifler/apple-bacco/): elmalı karamelli tütün
 - [Holiday Pie](https://kuantumkimya.github.io/tarifler/holiday-pie/): kurabiye tabanlı muhallebili turta
 - [Cactus Tropical](https://kuantumkimya.github.io/tarifler/cactus-tropical/): kaktüs ve orman meyveleri
 - [Butter Pecan Custard](https://kuantumkimya.github.io/tarifler/butter-pecan-custard/): tereyağlı pekan cevizli muhallebi
-- [Boss Reserve](https://kuantumkimya.github.io/tarifler/boss-reserve/): karamelli fındıklı tütün
 - [Guava Lime Candy](https://kuantumkimya.github.io/tarifler/guava-lime-candy/): guava ve misket limonu şekeri
 - [Cronut](https://kuantumkimya.github.io/tarifler/cronut/): kremalı kruvasan donut
-- [Heisenberg](https://kuantumkimya.github.io/tarifler/heisenberg/): buzlu orman meyvesi ve anason
 - [Rainbow Candy](https://kuantumkimya.github.io/tarifler/rainbow-candy/): renkli meyve şekerleri
-- [Tropical Punch](https://kuantumkimya.github.io/tarifler/tropical-punch/): tropik meyve punch
-- [Guava Passion](https://kuantumkimya.github.io/tarifler/guava-passion/): guava ve çarkıfelek
-- [Blue Raspberry Lemonade](https://kuantumkimya.github.io/tarifler/blue-raspberry-lemonade/): mavi ahududulu limonata
 - [Raspberry Lemonade](https://kuantumkimya.github.io/tarifler/raspberry-lemonade/): ahududulu limonata
-- [Lemon Lime](https://kuantumkimya.github.io/tarifler/lemon-lime/): limon ve misket limonu
-- [Spearmint](https://kuantumkimya.github.io/tarifler/spearmint/): nane
-- [Cool Mint](https://kuantumkimya.github.io/tarifler/cool-mint/): serin nane şekeri
-- [Blackberry Crumble](https://kuantumkimya.github.io/tarifler/blackberry-crumble/): böğürtlenli kıtır tatlı
 - [Blueberry Muffin](https://kuantumkimya.github.io/tarifler/blueberry-muffin/): yaban mersinli muffin
 - [Creme Brulee](https://kuantumkimya.github.io/tarifler/creme-brulee/): krem brüle
-- [Glazed Donut](https://kuantumkimya.github.io/tarifler/glazed-donut/): şekerli donut
 - [Funnel Cake](https://kuantumkimya.github.io/tarifler/funnel-cake/): pudra şekerli kızarmış hamur
 - [French Toast](https://kuantumkimya.github.io/tarifler/french-toast/): tarçınlı yumurtalı ekmek
 - [Rice Krispie Treats](https://kuantumkimya.github.io/tarifler/rice-krispie-treats/): marshmallowlu pirinç patlağı
@@ -199,29 +203,25 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Butterscotch Custard](https://kuantumkimya.github.io/tarifler/butterscotch-custard/): tereyağlı karamelli muhallebi
 - [Mango Lassi](https://kuantumkimya.github.io/tarifler/mango-lassi/): mangolu yoğurt içeceği
 - [Strawberry Milk](https://kuantumkimya.github.io/tarifler/strawberry-milk/): çilekli süt
-- [Chocolate Milk](https://kuantumkimya.github.io/tarifler/chocolate-milk/): kakaolu süt
 - [Banana Milk](https://kuantumkimya.github.io/tarifler/banana-milk/): muzlu süt
-- [Milk & Honey](https://kuantumkimya.github.io/tarifler/milk-and-honey/): ballı süt
 - [Mint Chocolate Chip](https://kuantumkimya.github.io/tarifler/mint-chocolate-chip/): naneli çikolata parçacıklı dondurma
 - [Pistachio Ice Cream](https://kuantumkimya.github.io/tarifler/pistachio-ice-cream/): fıstıklı dondurma
 - [Raspberry Panna Cotta](https://kuantumkimya.github.io/tarifler/raspberry-panna-cotta/): ahududulu panna cotta
 - [Orange Creamsicle](https://kuantumkimya.github.io/tarifler/orange-creamsicle/): portakallı vanilyalı dondurma
 - [Sütlaç](https://kuantumkimya.github.io/tarifler/sutlac/): fırın sütlaç
-- [Irish Cream](https://kuantumkimya.github.io/tarifler/irish-cream/): İrlanda kreması ve kahve
 - [Dulce de Leche](https://kuantumkimya.github.io/tarifler/dulce-de-leche/): sütlü karamel
-- [Hazelnut Latte](https://kuantumkimya.github.io/tarifler/hazelnut-latte/): fındıklı sütlü kahve
 - [Türk Kahvesi](https://kuantumkimya.github.io/tarifler/turk-kahvesi/): orta şekerli Türk kahvesi
 - [Chocolate Hazelnut](https://kuantumkimya.github.io/tarifler/chocolate-hazelnut/): fındıklı çikolata kreması
 - [Pistachio Cream](https://kuantumkimya.github.io/tarifler/pistachio-cream/): fıstıklı krema
 - [Turkish Blend](https://kuantumkimya.github.io/tarifler/turkish-blend/): Türk tütünü
 - [Cherry Pipe](https://kuantumkimya.github.io/tarifler/cherry-pipe/): vişneli pipo tütünü
 - [Pink Lemonade](https://kuantumkimya.github.io/tarifler/pink-lemonade/): çilekli pembe limonata
+- [Asap Grape](https://kuantumkimya.github.io/tarifler/asap-grape/): buzlu üzüm
+- [Hawaiian POG](https://kuantumkimya.github.io/tarifler/hawaiian-pog/): çarkıfelek, mandalina ve guava
 - [Queenside](https://kuantumkimya.github.io/tarifler/queenside/): portakallı vanilya kreması
 - [Maiden’s Milk](https://kuantumkimya.github.io/tarifler/maidens-milk/): çilekli cheesecake ve kek
 - [Pistachio Brulee](https://kuantumkimya.github.io/tarifler/pistachio-brulee/): fıstıklı krem brüle ve tütün
 - [Blueberry Yogurt](https://kuantumkimya.github.io/tarifler/blueberry-yogurt/): yaban mersinli yoğurt
-- [Asap Grape](https://kuantumkimya.github.io/tarifler/asap-grape/): buzlu üzüm
-- [Hawaiian POG](https://kuantumkimya.github.io/tarifler/hawaiian-pog/): çarkıfelek, mandalina ve guava
 - [Cherry Limeade](https://kuantumkimya.github.io/tarifler/cherry-limeade/): vişneli misket limonata
 - [Strawberry Mojito](https://kuantumkimya.github.io/tarifler/strawberry-mojito/): çilekli mojito
 - [Grape Candy](https://kuantumkimya.github.io/tarifler/grape-candy/): üzüm şekeri
