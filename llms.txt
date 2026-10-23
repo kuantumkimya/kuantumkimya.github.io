@@ -31,6 +31,10 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Tatlandırıcı, serinletici ve yuvarlatıcı](https://kuantumkimya.github.io/rehber/tatlandirici-serinletici-yuvarlatici/): Tarifin ince ayarı. Biri tatlılık katar, biri serinlik bırakır, biri keskin kenarları yumuşatır; üçü de az kullanılır.
 - [Kendi karışımını kurmak](https://kuantumkimya.github.io/rehber/kendi-karisimini-kurmak/): İyi bir karışım iyi bir tabak gibidir. Bir ana tat, onu taşıyan destekler ve küçük bir dokunuş.
 - [Sık yapılan hatalar](https://kuantumkimya.github.io/rehber/sik-yapilan-hatalar/): Tadı bozan çoğu zaman aromanın kendisi değil, küçük bir ölçü ya da sabır hatasıdır. Hepsinin çaresi basit.
+- [Nbase nedir: baz, VG PG ve sertlik](https://kuantumkimya.github.io/rehber/nbase-nedir/): Nbase, baz ile sertliğin bir arada olduğu karışımdır. İçinde VG, PG ve sertlik (nikotin), mg olarak durur; hazır likitten farkı aroma ve demlemedir.
+- [Evde likit yapımı: malzemeler ve adımlar](https://kuantumkimya.github.io/rehber/evde-likit-yapimi/): Aroma, baz, boş şişe ve terazi. Evde likit yapımı altı adımda biter; ölçüyü doğru kurmak için tek şey gerekir: ml hesabı.
+- [Nbase aroma oranı: yüzde kaç aroma](https://kuantumkimya.github.io/rehber/nbase-aroma-orani/): Aroma oranı, bitmiş karışımdaki aroma payıdır. Yüzdeyi seçmek, ml'yi hesaplamak ve sertliği ayarlamak aynı hesabın parçasıdır.
+- [VG PG oranı ne olmalı: 70/30, 50/50, 60/40](https://kuantumkimya.github.io/rehber/vg-pg-orani-ne-olmali/): VG kıvam verir, PG tadı taşır. 70/30, 60/40 ve 50/50 arasındaki farkı ve cihazına uygun oranı sade bir tabloyla gör.
 
 ## Tarifler
 
