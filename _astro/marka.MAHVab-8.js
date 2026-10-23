@@ -1,1 +1,0 @@
-var e=`Kuantum Kimya`,t=`https://kuantumkimya.github.io`,n=`https://kuantumkimya.github.io`;export{n,t as r,e as t};
