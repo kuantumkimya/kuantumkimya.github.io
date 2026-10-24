@@ -1,1 +1,0 @@
-import{t as e}from"./sayfa-dongusu.BcsfUZXr.js";e(e=>{let t=document.querySelector(`[data-raflar-menu]`);t&&(t.open=!1,document.addEventListener(`click`,e=>{t.open&&!t.contains(e.target)&&(t.open=!1)},{signal:e}),document.addEventListener(`keydown`,e=>{e.key===`Escape`&&t.open&&(t.open=!1,t.querySelector(`summary`)?.focus())},{signal:e}))});
