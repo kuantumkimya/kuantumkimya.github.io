@@ -1,0 +1,1 @@
+var e=new Intl.NumberFormat(`tr-TR`,{style:`currency`,currency:`TRY`,minimumFractionDigits:0,maximumFractionDigits:0}),t=new Intl.NumberFormat(`tr-TR`,{style:`currency`,currency:`TRY`,minimumFractionDigits:2,maximumFractionDigits:2});function n(n){let r=Math.round(n);return(r%100==0?e:t).format(r/100)}export{n as t};

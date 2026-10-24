@@ -1,1 +1,0 @@
-var e=`/odeme/`,t=`siparis`,n=[e];function r(e){return n.includes(e.endsWith(`/`)?e:`${e}/`)}function i(e){return`/tesekkurler/?${t}=${encodeURIComponent(e)}`}export{r as n,i as r,t};
