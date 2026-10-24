@@ -17,6 +17,22 @@ Sitenin adresi: https://kuantumkimya.github.io/
 - [Tarifler](https://kuantumkimya.github.io/tarifler/): Unicorn Milk, Tribeca, Lemon Tart ve iki yüzden fazla tarif: dünyada en sevilen likit tarifleri, Türkiye’de bulunan aromalarla; ml, damla ve gram ölçüsü, demleme süresi.
 - [Tat bulucu](https://kuantumkimya.github.io/tat-bulucu/): Sevdiğin tadı, tatlılığı ve serinliği seç; sana uygun aromaları gör.
 
+## Sık sorulanlar
+
+- [Sık sorulanlar](https://kuantumkimya.github.io/sss/)
+  - Karışımı kaç gün demlemeliyim?
+  - 60 ml şişeye kaç ml aroma koyarım?
+  - VG ve PG nedir?
+  - Aroma oranı kaç olmalı?
+  - Karışımım tatsız geldi; ne yapmalıyım?
+  - Hazır şişeyi nasıl hazırlarım?
+  - Ultrasonik demleme işe yarar mı?
+  - Konsantre ile karışım arasındaki fark nedir?
+  - Tatlandırıcı eklemeli miyim?
+  - Terazi şart mı?
+  - Hangi markayla başlamalıyım?
+  - Aromaları nasıl saklamalıyım?
+
 ## Rehber
 
 - [İlk tarifim](https://kuantumkimya.github.io/rehber/ilk-tarifim/): Bir aroma, biraz baz ve boş bir şişe. İlk karışımın altı adımda hazır; gerisini zaman tamamlar.
