@@ -1,0 +1,1 @@
+function e(e,t){let n=e.querySelector(`[data-suzgec-ac]`);if(!n)return;let r=t=>{e.toggleAttribute(`data-acik`,t),n.setAttribute(`aria-expanded`,String(t))};r(t),n.addEventListener(`click`,()=>r(!e.hasAttribute(`data-acik`)))}export{e as t};
