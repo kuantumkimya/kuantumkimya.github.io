@@ -1,0 +1,1 @@
+var e=`kk-sepet`;function t(t){if(typeof BroadcastChannel>`u`)return;let n=new BroadcastChannel(e);n.postMessage({adet:t}),n.close()}function n(t){if(typeof BroadcastChannel>`u`)return()=>{};let n=new BroadcastChannel(e);return n.onmessage=e=>{let n=e.data?.adet;typeof n==`number`&&Number.isInteger(n)&&n>=0&&t(n)},()=>n.close()}export{t as n,n as t};
