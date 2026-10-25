@@ -1,1 +1,0 @@
-var e=`/odeme/`,t=`/hesap/`,n=`siparis`,r=[e];function i(e){return r.includes(e.endsWith(`/`)?e:`${e}/`)}function a(e){return`/tesekkurler/?${n}=${encodeURIComponent(e)}`}export{a as i,n,i as r,t};
