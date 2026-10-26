@@ -1,0 +1,1 @@
+function e(){try{return globalThis.localStorage??null}catch{return null}}function t(t=e()){try{let e=JSON.parse(t?.getItem(`kk-stok-haber`)??`[]`);return Array.isArray(e)?e.filter(e=>typeof e==`string`&&e!==``):[]}catch{return[]}}function n(n,r=e()){let i=[...t(r).filter(e=>e!==n),n].slice(-100);try{r?.setItem(`kk-stok-haber`,JSON.stringify(i))}catch{}}export{t as n,n as t};
