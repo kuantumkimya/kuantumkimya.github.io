@@ -1,5 +1,23 @@
 Üçüncü taraf lisansları
 
+Reçete hesaplamanın beheri ve Gorilla şişesi aşağıdaki iki üç boyutlu modelden uyarlanmıştır.
+
+------------------------------------------------------------------------
+Beher modeli: "beaker", itschemistry2 (https://sketchfab.com/itschemistry2)
+https://sketchfab.com/3d-models/beaker-c1560b532f1d4f9f808f4963d6c877c8
+Lisans: Creative Commons Attribution 4.0 International (CC-BY-4.0), https://creativecommons.org/licenses/by/4.0/
+Yapılan değişiklikler: yalnız cam gövde alındı, kendi oranı korunarak küçültüldü ve sahnenin eksenine çevrildi; basılı ölçü
+ve etiket çıkarıldı, yerine cama ml ölçüsü çizildi. Cam, sıvı, ışık, eğme, çalkalanma ve dökme sahnenin kendi çizimidir.
+
+------------------------------------------------------------------------
+Gorilla şişe modeli: "Vape Bottle 60ml", Pefez (https://sketchfab.com/pefez)
+https://sketchfab.com/3d-models/vape-bottle-60ml-6a4d35dda1e44061a51342fb5945d349
+Lisans: Creative Commons Attribution 4.0 International (CC-BY-4.0), https://creativecommons.org/licenses/by/4.0/
+Yapılan değişiklikler: etiketsiz şişenin kapağı olduğu gibi alındı, ortalandı ve sahnenin eksenine çevrildi; etiket
+kullanılmadı. Gövde modelin ölçüleriyle yeniden çizildi (boyun, diş ve ağız eklendi); 30 ve 120 ml şişeler aynı ailedendir.
+PET görünüşü, sıvı, kapağın açılıp kapanması ve dökme sahnenin kendi çizimidir.
+
+------------------------------------------------------------------------
 Tarif hesabının beherindeki renk akışı ve yüzey dalgası, aşağıdaki iki açık kaynaklı çalışmanın çekirdeğinden uyarlanmıştır
 (site kaynağında src/scripts/akiskan.ts).
 
