@@ -1,4 +1,4 @@
-import{t as e}from"./gorsel.BvP_fUxv.js";import{a as t}from"./shop-api.DxQHxvlv.js";import{a as n,i as r,n as i,r as a,t as o}from"./katalog.DtnKgbxv.js";import{r as s}from"./tutar.BYQphF5z.js";var c=50,l=`
+import{t as e}from"./gorsel.BvP_fUxv.js";import{o as t}from"./shop-api.D7dqwhk9.js";import{a as n,i as r,n as i,r as a,t as o}from"./katalog.BYAmIFvf.js";import{r as s}from"./tutar.BYQphF5z.js";var c=50,l=`
     query GuncelUrunler($sluglar: [String!]!, $adet: Int!) {
         products(options: { take: $adet, filter: { slug: { in: $sluglar } } }) {
             items {
