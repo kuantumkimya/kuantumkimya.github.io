@@ -1,0 +1,1 @@
+import"./kart-canli-fiyat.Db1VNJaW.js";

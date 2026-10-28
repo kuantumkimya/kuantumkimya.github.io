@@ -15,7 +15,7 @@ Sitenin adresi: https://kuantumkimya.github.io/
 
 - [Reçete hesaplama](https://kuantumkimya.github.io/recete-hesaplama/): Şişeni ya da elindeki bazı, aromanı ve oranı seç; kaç ml koyacağını yazalım. Üyelik gerekmez.
 - [Hazır reçeteler](https://kuantumkimya.github.io/receteler/): Unicorn Milk, Tribeca, Lemon Tart ve iki yüzden fazla reçete: dünyada en sevilen likit reçeteleri, Türkiye’de bulunan aromalarla; ml, damla ve gram ölçüsü, demleme süresi.
-- [Tat bulucu](https://kuantumkimya.github.io/tat-bulucu/): Sevdiğin tadı, tatlılığı ve serinliği seç; sana uygun aromaları gör.
+- [Tat bulucu](https://kuantumkimya.github.io/tat-bulucu/): Sevdiğin tadı, tatlılığı ve serinliği seç. Sana uyan aromalar sıralanır.
 
 ## Sık sorulanlar
 
@@ -24,7 +24,7 @@ Sitenin adresi: https://kuantumkimya.github.io/
   - 60 ml şişeye kaç ml aroma koyarım?
   - VG ve PG nedir?
   - Aroma oranı kaç olmalı?
-  - Karışımım tatsız geldi; ne yapmalıyım?
+  - Karışımım tatsız geldi, ne yapmalıyım?
   - Hazır şişeyi nasıl hazırlarım?
   - Ultrasonik demleme işe yarar mı?
   - Konsantre ile karışım arasındaki fark nedir?
@@ -33,22 +33,22 @@ Sitenin adresi: https://kuantumkimya.github.io/
   - Hangi markayla başlamalıyım?
   - Aromaları nasıl saklamalıyım?
 
-## Rehber
+## Kütüphane
 
-- [İlk reçetem](https://kuantumkimya.github.io/kutuphane/ilk-recetem/): Bir aroma, biraz baz ve boş bir şişe. İlk karışımın altı adımda hazır; gerisini zaman tamamlar.
+- [İlk reçetem](https://kuantumkimya.github.io/kutuphane/ilk-recetem/): Bir aroma, biraz baz ve boş bir şişe. İlk karışımın altı adımda hazır, gerisini zaman tamamlar.
 - [Konsantre mi, karışım mı, hazır şişe mi](https://kuantumkimya.github.io/kutuphane/konsantre-karisim-hazir-sise/): Üç yol, üç ayrı keyif. Hangisinin sana uyduğu, ölçüyle ne kadar oynamak istediğine bağlı.
 - [Hazır şişe nasıl hazırlanır](https://kuantumkimya.github.io/kutuphane/hazir-sise-hazirlama/): Aroma şişede ölçülü gelir, sen bazını eklersin. Üç adım ve biraz sabır.
-- [VG ve PG](https://kuantumkimya.github.io/kutuphane/vg-ve-pg/): Bazın iki yüzü. Biri kıvam ve yumuşaklık verir, öbürü tadı taşır; oran bu ikisinin dengesidir.
-- [Oran nasıl kurulur](https://kuantumkimya.github.io/kutuphane/oran-nasil-kurulur/): Oran, aromanın şişedeki payıdır. Az kalırsa tat solgun, çok olursa ağır olur; doğru ölçü ikisinin arasındadır.
+- [VG ve PG](https://kuantumkimya.github.io/kutuphane/vg-ve-pg/): Bazın iki yüzü. Biri kıvam ve yumuşaklık verir, öbürü tadı taşır. Oran bu ikisinin dengesidir.
+- [Oran nasıl kurulur](https://kuantumkimya.github.io/kutuphane/oran-nasil-kurulur/): Oran, aromanın şişedeki payıdır. Az kalırsa tat solgun, çok olursa ağır olur. Doğru ölçü ikisinin arasındadır.
 - [Teraziyle karıştırmak](https://kuantumkimya.github.io/kutuphane/teraziyle-karistirma/): Koyu VG şırıngada ölçü kaçırır, terazi kaçırmaz. Gramla çalışmak daha hızlı, daha temiz ve daha kesindir.
 - [Demleme ve ultrasonik demleme](https://kuantumkimya.github.io/kutuphane/demleme/): Karıştırdığın gün tat henüz dağınıktır. Beklerken aroma bazla kaynaşır ve tat yerine oturur.
 - [Saklama](https://kuantumkimya.github.io/kutuphane/saklama/): Aroma ışıktan, sıcaktan ve havadan yorulur. Serin, karanlık bir dolap ve sıkı bir kapak tadı uzun süre taze tutar.
 - [Aroma markaları](https://kuantumkimya.github.io/kutuphane/aroma-markalari/): TFA, Capella, FlavourArt, Inawera ve Drifter Bar. Her markanın kendi karakteri, kendi ölçüsü var.
-- [Tatlandırıcı, serinletici ve yuvarlatıcı](https://kuantumkimya.github.io/kutuphane/tatlandirici-serinletici-yuvarlatici/): Reçetenin ince ayarı. Biri tatlılık katar, biri serinlik bırakır, biri keskin kenarları yumuşatır; üçü de az kullanılır.
+- [Tatlandırıcı, serinletici ve yuvarlatıcı](https://kuantumkimya.github.io/kutuphane/tatlandirici-serinletici-yuvarlatici/): Reçetenin ince ayarı. Biri tatlılık katar, biri serinlik bırakır, biri keskin kenarları yumuşatır. Üçü de az kullanılır.
 - [Kendi karışımını kurmak](https://kuantumkimya.github.io/kutuphane/kendi-karisimini-kurmak/): İyi bir karışım iyi bir tabak gibidir. Bir ana tat, onu taşıyan destekler ve küçük bir dokunuş.
 - [Sık yapılan hatalar](https://kuantumkimya.github.io/kutuphane/sik-yapilan-hatalar/): Tadı bozan çoğu zaman aromanın kendisi değil, küçük bir ölçü ya da sabır hatasıdır. Hepsinin çaresi basit.
-- [Nbase nedir: baz, VG PG ve sertlik](https://kuantumkimya.github.io/kutuphane/nbase-nedir/): Nbase, baz ile sertliğin bir arada olduğu karışımdır. İçinde VG, PG ve sertlik (nikotin), mg olarak durur; hazır likitten farkı aroma ve demlemedir.
-- [Evde likit yapımı: malzemeler ve adımlar](https://kuantumkimya.github.io/kutuphane/evde-likit-yapimi/): Aroma, baz, boş şişe ve terazi. Evde likit yapımı altı adımda biter; ölçüyü doğru kurmak için tek şey gerekir: ml hesabı.
+- [Nbase nedir: baz, VG PG ve sertlik](https://kuantumkimya.github.io/kutuphane/nbase-nedir/): Nbase, bazın sertlikle hazırlanmış halidir. İçinde VG ve PG bulunur, sertliği mg ile yazılır. Hazır likitten farkı aroma ve demlemedir.
+- [Evde likit yapımı: malzemeler ve adımlar](https://kuantumkimya.github.io/kutuphane/evde-likit-yapimi/): Aroma, baz, boş şişe ve terazi. Evde likit yapımı altı adımda biter. Ölçüyü doğru kurmak için tek şey gerekir: ml hesabı.
 - [Nbase aroma oranı: yüzde kaç aroma](https://kuantumkimya.github.io/kutuphane/nbase-aroma-orani/): Aroma oranı, bitmiş karışımdaki aroma payıdır. Yüzdeyi seçmek, ml'yi hesaplamak ve sertliği ayarlamak aynı hesabın parçasıdır.
 - [VG PG oranı ne olmalı: 70/30, 50/50, 60/40](https://kuantumkimya.github.io/kutuphane/vg-pg-orani-ne-olmali/): VG kıvam verir, PG tadı taşır. 70/30, 60/40 ve 50/50 arasındaki farkı ve cihazına uygun oranı sade bir tabloyla gör.
 
