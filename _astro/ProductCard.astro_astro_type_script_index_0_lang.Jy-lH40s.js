@@ -1,1 +1,0 @@
-import"./kart-canli-fiyat.BupySF6M.js";

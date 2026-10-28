@@ -1,0 +1,1 @@
+var e=`Roxar Kimya`,t=`https://kuantumkimya.github.io`;export{t as n,e as t};

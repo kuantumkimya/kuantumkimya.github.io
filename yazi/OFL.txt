@@ -1,4 +1,4 @@
-Kuantum Kimya vitrininin yazı tipleri. İkisi de SIL Open Font License 1.1 ile lisanslıdır; lisansın tam metni aşağıdadır.
+Roxar Kimya vitrininin yazı tipleri. İkisi de SIL Open Font License 1.1 ile lisanslıdır; lisansın tam metni aşağıdadır.
 Dosyalar özgün yazı tiplerinin Latin ve Türkçe harflerle (₺ dahil) sınırlı alt kümesidir (fontTools ile; ağırlık ekseni
 daraltıldı). Lisansta ayrılmış ad yoktur.
 
