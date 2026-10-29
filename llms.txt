@@ -48,7 +48,7 @@ Sitenin adresi: https://roxarkimya.com/
 - [Kendi karışımını kurmak](https://roxarkimya.com/kutuphane/kendi-karisimini-kurmak/): İyi bir karışım iyi bir tabak gibidir. Bir ana tat, onu taşıyan destekler ve küçük bir dokunuş.
 - [Sık yapılan hatalar](https://roxarkimya.com/kutuphane/sik-yapilan-hatalar/): Tadı bozan çoğu zaman aromanın kendisi değil, küçük bir ölçü ya da sabır hatasıdır. Hepsinin çaresi basit.
 - [Nbase nedir: baz, VG PG ve sertlik](https://roxarkimya.com/kutuphane/nbase-nedir/): Nbase, bazın sertlikle hazırlanmış halidir. İçinde VG ve PG bulunur, sertliği mg ile yazılır. Kendi tadı yoktur, tadı aroma getirir.
-- [Evde karışım hazırlamak: malzemeler ve adımlar](https://roxarkimya.com/kutuphane/evde-likit-yapimi/): Aroma, baz, boş şişe ve terazi. Evde karışım altı adımda hazır olur. Ölçüyü doğru kurmak için tek şey gerekir: ml hesabı.
+- [Evde karışım hazırlamak: malzemeler ve adımlar](https://roxarkimya.com/kutuphane/evde-karisim-hazirlama/): Aroma, baz, boş şişe ve terazi. Evde karışım altı adımda hazır olur. Ölçüyü doğru kurmak için tek şey gerekir: ml hesabı.
 - [Nbase aroma oranı: yüzde kaç aroma](https://roxarkimya.com/kutuphane/nbase-aroma-orani/): Aroma oranı, bitmiş karışımdaki aroma payıdır. Yüzdeyi seçmek, ml'yi hesaplamak ve sertliği ayarlamak aynı hesabın parçasıdır.
 - [VG PG oranı ne olmalı: 70/30, 50/50, 60/40](https://roxarkimya.com/kutuphane/vg-pg-orani-ne-olmali/): VG kıvam verir, PG tadı taşır. 70/30, 60/40 ve 50/50 arasındaki farkı sade bir tabloyla gör.
 
@@ -70,7 +70,7 @@ Sitenin adresi: https://roxarkimya.com/
 - [Strawberry Kiwi](https://roxarkimya.com/receteler/strawberry-kiwi/): çilek ve kivi
 - [Cotton Candy](https://roxarkimya.com/receteler/cotton-candy/): pamuk şeker
 - [Peach Ice](https://roxarkimya.com/receteler/peach-ice/): buzlu şeftali
-- [Double Apple](https://roxarkimya.com/receteler/double-apple/): nargile elması
+- [Double Apple](https://roxarkimya.com/receteler/double-apple/): anasonlu çifte elma
 - [Vanilla Custard](https://roxarkimya.com/receteler/vanilla-custard/): vanilyalı muhallebi
 - [Mango Peach](https://roxarkimya.com/receteler/mango-peach/): mango ve şeftali
 - [Blue Razz Ice](https://roxarkimya.com/receteler/blue-razz-ice/): buzlu mavi ahududu
