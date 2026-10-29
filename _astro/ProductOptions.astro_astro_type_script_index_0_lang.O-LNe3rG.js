@@ -1,0 +1,1 @@
+import{n as e,t}from"./stok-bildirim.JOTVbFjv.js";typeof window<`u`&&(window.__kkStokBildirimiYaz=e,window.__kkHesapEpostasiDeger=``,t().then(e=>{e&&(window.__kkHesapEpostasiDeger=e,document.dispatchEvent(new Event(`kk:stok-eposta`)))}));
