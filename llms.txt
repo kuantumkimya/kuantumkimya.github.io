@@ -2,24 +2,24 @@
 
 > Konsantre ve karışım aromalar, VG, PG, hazır bazlar, beher ve aksesuar. Tadı biz getiririz, oranı sen kurarsın.
 
-Sitenin adresi: https://kuantumkimya.github.io/
+Sitenin adresi: https://roxarkimya.com/
 
 ## Raflar
 
-- [Aromalar](https://kuantumkimya.github.io/aromalar/)
-- [DIY kitler](https://kuantumkimya.github.io/diy-kitler/)
-- [Bazlar](https://kuantumkimya.github.io/bazlar/)
-- [Sarf malzemeleri](https://kuantumkimya.github.io/sarf-malzemeleri/)
+- [Aromalar](https://roxarkimya.com/aromalar/)
+- [DIY kitler](https://roxarkimya.com/diy-kitler/)
+- [Bazlar](https://roxarkimya.com/bazlar/)
+- [Sarf malzemeleri](https://roxarkimya.com/sarf-malzemeleri/)
 
 ## Araçlar
 
-- [Reçete hesaplama](https://kuantumkimya.github.io/recete-hesaplama/): Şişeni ya da elindeki bazı, aromanı ve oranı seç; kaç ml koyacağını yazalım. Üyelik gerekmez.
-- [Hazır reçeteler](https://kuantumkimya.github.io/receteler/): İki yüzden fazla hazır reçete, ölçüsüyle: ml, damla ve gram, demleme süresi. Aromalarını tek dokunuşla sepete ekle.
-- [Tat bulucu](https://kuantumkimya.github.io/tat-bulucu/): Sevdiğin tat ailesini seç, sana uyan aromalar sıralansın. Üyelik gerekmez.
+- [Reçete hesaplama](https://roxarkimya.com/recete-hesaplama/): Şişeni ya da elindeki bazı, aromanı ve oranı seç; kaç ml koyacağını yazalım. Üyelik gerekmez.
+- [Hazır reçeteler](https://roxarkimya.com/receteler/): İki yüzden fazla hazır reçete, ölçüsüyle: ml, damla ve gram, demleme süresi. Aromalarını tek dokunuşla sepete ekle.
+- [Tat bulucu](https://roxarkimya.com/tat-bulucu/): Sevdiğin tat ailesini seç, sana uyan aromalar sıralansın. Üyelik gerekmez.
 
 ## Sık sorulanlar
 
-- [Sık sorulanlar](https://kuantumkimya.github.io/sss/)
+- [Sık sorulanlar](https://roxarkimya.com/sss/)
   - Karışımı kaç gün demlemeliyim?
   - 60 ml şişeye kaç ml aroma koyarım?
   - VG ve PG nedir?
@@ -35,223 +35,223 @@ Sitenin adresi: https://kuantumkimya.github.io/
 
 ## Kütüphane
 
-- [İlk reçetem](https://kuantumkimya.github.io/kutuphane/ilk-recetem/): Bir aroma, biraz baz ve boş bir şişe. İlk karışımın altı adımda hazır, gerisini zaman tamamlar.
-- [Konsantre mi, karışım mı, hazır şişe mi](https://kuantumkimya.github.io/kutuphane/konsantre-karisim-hazir-sise/): Üç yol, üç ayrı keyif. Hangisinin sana uyduğu, ölçüyle ne kadar oynamak istediğine bağlı.
-- [Hazır şişe nasıl hazırlanır](https://kuantumkimya.github.io/kutuphane/hazir-sise-hazirlama/): Aroma şişede ölçülü gelir, sen bazını eklersin. Üç adım ve biraz sabır.
-- [VG ve PG](https://kuantumkimya.github.io/kutuphane/vg-ve-pg/): Bazın iki yüzü. Biri kıvam ve yumuşaklık verir, öbürü tadı taşır. Oran bu ikisinin dengesidir.
-- [Oran nasıl kurulur](https://kuantumkimya.github.io/kutuphane/oran-nasil-kurulur/): Oran, aromanın şişedeki payıdır. Az kalırsa tat solgun, çok olursa ağır olur. Doğru ölçü ikisinin arasındadır.
-- [Teraziyle karıştırmak](https://kuantumkimya.github.io/kutuphane/teraziyle-karistirma/): Koyu VG şırıngada ölçü kaçırır, terazi kaçırmaz. Gramla çalışmak daha hızlı, daha temiz ve daha kesindir.
-- [Demleme ve ultrasonik demleme](https://kuantumkimya.github.io/kutuphane/demleme/): Karıştırdığın gün tat henüz dağınıktır. Beklerken aroma bazla kaynaşır ve tat yerine oturur.
-- [Saklama](https://kuantumkimya.github.io/kutuphane/saklama/): Aroma ışıktan, sıcaktan ve havadan yorulur. Serin, karanlık bir dolap ve sıkı bir kapak tadı uzun süre taze tutar.
-- [Aroma markaları](https://kuantumkimya.github.io/kutuphane/aroma-markalari/): TFA, Capella, FlavourArt, Inawera ve Drifter Bar. Her markanın kendi karakteri, kendi ölçüsü var.
-- [Tatlandırıcı, serinletici ve yuvarlatıcı](https://kuantumkimya.github.io/kutuphane/tatlandirici-serinletici-yuvarlatici/): Reçetenin ince ayarı. Biri tatlılık katar, biri serinlik bırakır, biri keskin kenarları yumuşatır. Üçü de az kullanılır.
-- [Kendi karışımını kurmak](https://kuantumkimya.github.io/kutuphane/kendi-karisimini-kurmak/): İyi bir karışım iyi bir tabak gibidir. Bir ana tat, onu taşıyan destekler ve küçük bir dokunuş.
-- [Sık yapılan hatalar](https://kuantumkimya.github.io/kutuphane/sik-yapilan-hatalar/): Tadı bozan çoğu zaman aromanın kendisi değil, küçük bir ölçü ya da sabır hatasıdır. Hepsinin çaresi basit.
-- [Nbase nedir: baz, VG PG ve sertlik](https://kuantumkimya.github.io/kutuphane/nbase-nedir/): Nbase, bazın sertlikle hazırlanmış halidir. İçinde VG ve PG bulunur, sertliği mg ile yazılır. Kendi tadı yoktur, tadı aroma getirir.
-- [Evde karışım hazırlamak: malzemeler ve adımlar](https://kuantumkimya.github.io/kutuphane/evde-likit-yapimi/): Aroma, baz, boş şişe ve terazi. Evde karışım altı adımda hazır olur. Ölçüyü doğru kurmak için tek şey gerekir: ml hesabı.
-- [Nbase aroma oranı: yüzde kaç aroma](https://kuantumkimya.github.io/kutuphane/nbase-aroma-orani/): Aroma oranı, bitmiş karışımdaki aroma payıdır. Yüzdeyi seçmek, ml'yi hesaplamak ve sertliği ayarlamak aynı hesabın parçasıdır.
-- [VG PG oranı ne olmalı: 70/30, 50/50, 60/40](https://kuantumkimya.github.io/kutuphane/vg-pg-orani-ne-olmali/): VG kıvam verir, PG tadı taşır. 70/30, 60/40 ve 50/50 arasındaki farkı ve cihazına uygun oranı sade bir tabloyla gör.
+- [İlk reçetem](https://roxarkimya.com/kutuphane/ilk-recetem/): Bir aroma, biraz baz ve boş bir şişe. İlk karışımın altı adımda hazır, gerisini zaman tamamlar.
+- [Konsantre mi, karışım mı, hazır şişe mi](https://roxarkimya.com/kutuphane/konsantre-karisim-hazir-sise/): Üç yol, üç ayrı keyif. Hangisinin sana uyduğu, ölçüyle ne kadar oynamak istediğine bağlı.
+- [Hazır şişe nasıl hazırlanır](https://roxarkimya.com/kutuphane/hazir-sise-hazirlama/): Aroma şişede ölçülü gelir, sen bazını eklersin. Üç adım ve biraz sabır.
+- [VG ve PG](https://roxarkimya.com/kutuphane/vg-ve-pg/): Bazın iki yüzü. Biri kıvam ve yumuşaklık verir, öbürü tadı taşır. Oran bu ikisinin dengesidir.
+- [Oran nasıl kurulur](https://roxarkimya.com/kutuphane/oran-nasil-kurulur/): Oran, aromanın şişedeki payıdır. Az kalırsa tat solgun, çok olursa ağır olur. Doğru ölçü ikisinin arasındadır.
+- [Teraziyle karıştırmak](https://roxarkimya.com/kutuphane/teraziyle-karistirma/): Koyu VG şırıngada ölçü kaçırır, terazi kaçırmaz. Gramla çalışmak daha hızlı, daha temiz ve daha kesindir.
+- [Demleme ve ultrasonik demleme](https://roxarkimya.com/kutuphane/demleme/): Karıştırdığın gün tat henüz dağınıktır. Beklerken aroma bazla kaynaşır ve tat yerine oturur.
+- [Saklama](https://roxarkimya.com/kutuphane/saklama/): Aroma ışıktan, sıcaktan ve havadan yorulur. Serin, karanlık bir dolap ve sıkı bir kapak tadı uzun süre taze tutar.
+- [Aroma markaları](https://roxarkimya.com/kutuphane/aroma-markalari/): TFA, Capella, FlavourArt, Inawera ve Drifter Bar. Her markanın kendi karakteri, kendi ölçüsü var.
+- [Tatlandırıcı, serinletici ve yuvarlatıcı](https://roxarkimya.com/kutuphane/tatlandirici-serinletici-yuvarlatici/): Reçetenin ince ayarı. Biri tatlılık katar, biri serinlik bırakır, biri keskin kenarları yumuşatır. Üçü de az kullanılır.
+- [Kendi karışımını kurmak](https://roxarkimya.com/kutuphane/kendi-karisimini-kurmak/): İyi bir karışım iyi bir tabak gibidir. Bir ana tat, onu taşıyan destekler ve küçük bir dokunuş.
+- [Sık yapılan hatalar](https://roxarkimya.com/kutuphane/sik-yapilan-hatalar/): Tadı bozan çoğu zaman aromanın kendisi değil, küçük bir ölçü ya da sabır hatasıdır. Hepsinin çaresi basit.
+- [Nbase nedir: baz, VG PG ve sertlik](https://roxarkimya.com/kutuphane/nbase-nedir/): Nbase, bazın sertlikle hazırlanmış halidir. İçinde VG ve PG bulunur, sertliği mg ile yazılır. Kendi tadı yoktur, tadı aroma getirir.
+- [Evde karışım hazırlamak: malzemeler ve adımlar](https://roxarkimya.com/kutuphane/evde-likit-yapimi/): Aroma, baz, boş şişe ve terazi. Evde karışım altı adımda hazır olur. Ölçüyü doğru kurmak için tek şey gerekir: ml hesabı.
+- [Nbase aroma oranı: yüzde kaç aroma](https://roxarkimya.com/kutuphane/nbase-aroma-orani/): Aroma oranı, bitmiş karışımdaki aroma payıdır. Yüzdeyi seçmek, ml'yi hesaplamak ve sertliği ayarlamak aynı hesabın parçasıdır.
+- [VG PG oranı ne olmalı: 70/30, 50/50, 60/40](https://roxarkimya.com/kutuphane/vg-pg-orani-ne-olmali/): VG kıvam verir, PG tadı taşır. 70/30, 60/40 ve 50/50 arasındaki farkı sade bir tabloyla gör.
 
 ## Hazır reçeteler
 
-- [Tribeca](https://kuantumkimya.github.io/receteler/tribeca/): vanilyalı, karamelli yumuşak tütün
-- [Castle Long](https://kuantumkimya.github.io/receteler/castle-long/): vanilyalı, hindistan cevizli, karamelli tütün
-- [Lemon Tart](https://kuantumkimya.github.io/receteler/lemon-tart/): limonlu tart
-- [Unicorn Milk](https://kuantumkimya.github.io/receteler/unicorn-milk/): çilekli süt ve cheesecake
-- [Brain Freeze](https://kuantumkimya.github.io/receteler/brain-freeze/): buzlu çilek ve nar
-- [Cheesecake](https://kuantumkimya.github.io/receteler/cheesecake/): sade cheesecake
-- [Watermelon Ice](https://kuantumkimya.github.io/receteler/watermelon-ice/): buzlu karpuz
-- [Lava Flow](https://kuantumkimya.github.io/receteler/lava-flow/): çilek, ananas ve hindistan cevizi
-- [Strawberry Ice](https://kuantumkimya.github.io/receteler/strawberry-ice/): buzlu çilek
-- [Menthol](https://kuantumkimya.github.io/receteler/menthol/): saf mentol
-- [Strawberry Banana](https://kuantumkimya.github.io/receteler/strawberry-banana/): çilek ve muz
-- [Mango Ice](https://kuantumkimya.github.io/receteler/mango-ice/): buzlu mango
-- [Latte](https://kuantumkimya.github.io/receteler/latte/): sütlü kahve
-- [Strawberry Kiwi](https://kuantumkimya.github.io/receteler/strawberry-kiwi/): çilek ve kivi
-- [Cotton Candy](https://kuantumkimya.github.io/receteler/cotton-candy/): pamuk şeker
-- [Peach Ice](https://kuantumkimya.github.io/receteler/peach-ice/): buzlu şeftali
-- [Double Apple](https://kuantumkimya.github.io/receteler/double-apple/): nargile elması
-- [Vanilla Custard](https://kuantumkimya.github.io/receteler/vanilla-custard/): vanilyalı muhallebi
-- [Mango Peach](https://kuantumkimya.github.io/receteler/mango-peach/): mango ve şeftali
-- [Blue Razz Ice](https://kuantumkimya.github.io/receteler/blue-razz-ice/): buzlu mavi ahududu
-- [Apple Pie](https://kuantumkimya.github.io/receteler/apple-pie/): elmalı turta
-- [Blueberry Bubblegum](https://kuantumkimya.github.io/receteler/blueberry-bubblegum/): yaban mersinli sakız
-- [Strawberry Watermelon](https://kuantumkimya.github.io/receteler/strawberry-watermelon/): çilek ve karpuz
-- [Vanilla Bean Ice Cream](https://kuantumkimya.github.io/receteler/vanilla-bean-ice-cream/): vanilya taneli dondurma
-- [Watermelon Candy](https://kuantumkimya.github.io/receteler/watermelon-candy/): ekşi karpuz şekeri
-- [Pineapple Ice](https://kuantumkimya.github.io/receteler/pineapple-ice/): buzlu ananas
-- [Bubble Gum](https://kuantumkimya.github.io/receteler/bubble-gum/): balonlu sakız
-- [Cinnamon Roll](https://kuantumkimya.github.io/receteler/cinnamon-roll/): tarçınlı rulo çörek
-- [Strawberry Cheesecake](https://kuantumkimya.github.io/receteler/strawberry-cheesecake/): çilekli cheesecake
-- [Looper](https://kuantumkimya.github.io/receteler/looper/): meyveli halka gevrek ve süt
-- [Tiramisu](https://kuantumkimya.github.io/receteler/tiramisu/): tiramisu
-- [Ella’s Shortbread](https://kuantumkimya.github.io/receteler/ellas-shortbread/): tereyağlı vanilyalı kurabiye
-- [S’mores](https://kuantumkimya.github.io/receteler/smores/): kızarmış marshmallow, bisküvi ve çikolata
-- [Black Honey](https://kuantumkimya.github.io/receteler/black-honey/): ballı tütün
-- [Strawberry Fog](https://kuantumkimya.github.io/receteler/strawberry-fog/): çilekli cheesecake kreması
-- [Nana Cream](https://kuantumkimya.github.io/receteler/nana-cream/): muzlu krema
-- [Juicy Peach](https://kuantumkimya.github.io/receteler/juicy-peach/): sulu şeftali
-- [Banana Split](https://kuantumkimya.github.io/receteler/banana-split/): muzlu dondurma, çilek ve çikolata
-- [Fudge Brownie](https://kuantumkimya.github.io/receteler/fudge-brownie/): yoğun çikolatalı brownie
-- [Strawberry Shortcake](https://kuantumkimya.github.io/receteler/strawberry-shortcake/): çilekli kurabiyeli dondurma
-- [Blueberry Cheesecake](https://kuantumkimya.github.io/receteler/blueberry-cheesecake/): yaban mersinli cheesecake
-- [Raspberry Sorbet](https://kuantumkimya.github.io/receteler/raspberry-sorbet/): ahududulu sorbe
-- [Cavendish](https://kuantumkimya.github.io/receteler/cavendish/): tatlı pipo tütünü
-- [Mixed Berry](https://kuantumkimya.github.io/receteler/mixed-berry/): karışık orman meyveleri
-- [Arctic Berries](https://kuantumkimya.github.io/receteler/arctic-berries/): buzlu orman meyveleri
-- [Fresh Watermelon](https://kuantumkimya.github.io/receteler/fresh-watermelon/): taze karpuz
-- [Cush Man](https://kuantumkimya.github.io/receteler/cush-man/): olgun mango
-- [RY4 Delight](https://kuantumkimya.github.io/receteler/ry4-delight/): kremalı karamelli tütün
-- [VCT](https://kuantumkimya.github.io/receteler/vct/): vanilyalı muhallebili tütün
-- [Captain Black](https://kuantumkimya.github.io/receteler/captain-black/): vanilyalı pipo tütünü
-- [Mama Melons](https://kuantumkimya.github.io/receteler/mama-melons/): kavun, mango ve papaya
-- [Frosted Flakes](https://kuantumkimya.github.io/receteler/frosted-flakes/): şekerli mısır gevreği ve süt
-- [Kiss](https://kuantumkimya.github.io/receteler/kiss/): çilekli sütlü çikolata
-- [Strawnana Custard](https://kuantumkimya.github.io/receteler/strawnana-custard/): çilekli muzlu muhallebi
-- [Cinapple Fritter](https://kuantumkimya.github.io/receteler/cinapple-fritter/): tarçınlı elmalı çörek
-- [Candybeca](https://kuantumkimya.github.io/receteler/candybeca/): karamelli tütün ve bisküvi
-- [Tiger’s Blood](https://kuantumkimya.github.io/receteler/tigers-blood/): karpuz, çilek ve hindistan cevizi
-- [Raspberry Custard](https://kuantumkimya.github.io/receteler/raspberry-custard/): ahududulu muhallebi
-- [Sugar Rush](https://kuantumkimya.github.io/receteler/sugar-rush/): şekerli kurabiye ve krema
-- [Birthday Cake](https://kuantumkimya.github.io/receteler/birthday-cake/): kremalı doğum günü pastası
-- [Poptart](https://kuantumkimya.github.io/receteler/poptart/): çilek dolgulu çıtır hamur
-- [Soft Choco Cookies](https://kuantumkimya.github.io/receteler/soft-choco-cookies/): yumuşak çikolatalı kurabiye
-- [Banana Pudding](https://kuantumkimya.github.io/receteler/banana-pudding/): muzlu puding ve bisküvi
-- [Carabeca](https://kuantumkimya.github.io/receteler/carabeca/): karamelli vanilyalı tütün
-- [Twister Lolly](https://kuantumkimya.github.io/receteler/twister-lolly/): ananaslı çilekli buz dondurma
-- [Snowy Fuji](https://kuantumkimya.github.io/receteler/snowy-fuji/): serin elma ve krema
-- [Barney Rubble](https://kuantumkimya.github.io/receteler/barney-rubble/): meyveli pirinç gevreği ve süt
-- [Pineapple Cheesecake](https://kuantumkimya.github.io/receteler/pineapple-cheesecake/): ananaslı cheesecake
-- [Lemon Pound Cake](https://kuantumkimya.github.io/receteler/lemon-pound-cake/): limonlu kek
-- [Cinnamon Cookie Custard](https://kuantumkimya.github.io/receteler/cinnamon-cookie-custard/): tarçınlı kurabiye ve muhallebi
-- [Sparkling Apple Peach](https://kuantumkimya.github.io/receteler/sparkling-apple-peach/): köpüklü elma ve şeftali
-- [Butter Cookies](https://kuantumkimya.github.io/receteler/butter-cookies/): tereyağlı kurabiye
-- [Dragon Fruit Cream](https://kuantumkimya.github.io/receteler/dragon-fruit-cream/): ejder meyveli krema
-- [Strawberry Ice Cream](https://kuantumkimya.github.io/receteler/strawberry-ice-cream/): çilekli dondurma
-- [Cereal Milk](https://kuantumkimya.github.io/receteler/cereal-milk/): mısır gevrekli süt
-- [Cannoli](https://kuantumkimya.github.io/receteler/cannoli/): İtalyan ricottalı tatlısı
-- [Cookies and Cream](https://kuantumkimya.github.io/receteler/cookies-and-cream/): kakaolu bisküvili dondurma
-- [Peaches and Cream](https://kuantumkimya.github.io/receteler/peaches-and-cream/): şeftalili krema
-- [Strawberries and Cream](https://kuantumkimya.github.io/receteler/strawberries-and-cream/): çilek ve krema
-- [Piña Colada](https://kuantumkimya.github.io/receteler/pina-colada/): ananas ve hindistan cevizi kreması
-- [Lemon Meringue Pie](https://kuantumkimya.github.io/receteler/lemon-meringue-pie/): limonlu beze turtası
-- [Peach Cobbler](https://kuantumkimya.github.io/receteler/peach-cobbler/): fırında şeftali tatlısı
-- [Churros](https://kuantumkimya.github.io/receteler/churros/): tarçınlı çıtır hamur ve çikolata
-- [Caramel Apple](https://kuantumkimya.github.io/receteler/caramel-apple/): karamel kaplı elma
-- [Gummy Bears](https://kuantumkimya.github.io/receteler/gummy-bears/): meyveli ayıcık şekeri
-- [Peach Rings](https://kuantumkimya.github.io/receteler/peach-rings/): ekşi şeftali halka şekeri
-- [Mango Strawberry](https://kuantumkimya.github.io/receteler/mango-strawberry/): mango ve çilek
-- [Sour Green Apple](https://kuantumkimya.github.io/receteler/sour-green-apple/): ekşi yeşil elma
-- [Honeydew Melon](https://kuantumkimya.github.io/receteler/honeydew-melon/): bal kavunu
-- [Melon Trio](https://kuantumkimya.github.io/receteler/melon-trio/): kavun, bal kavunu ve karpuz
-- [Kiwi Dragonfruit](https://kuantumkimya.github.io/receteler/kiwi-dragonfruit/): kivi ve ejder meyvesi
-- [Strawberry Guava](https://kuantumkimya.github.io/receteler/strawberry-guava/): çilek ve guava
-- [Apple Kiwi](https://kuantumkimya.github.io/receteler/apple-kiwi/): elma ve kivi
-- [Blueberry Lemon](https://kuantumkimya.github.io/receteler/blueberry-lemon/): yaban mersini ve limon
-- [Pomegranate Raspberry](https://kuantumkimya.github.io/receteler/pomegranate-raspberry/): nar ve ahududu
-- [Lemon Sorbet](https://kuantumkimya.github.io/receteler/lemon-sorbet/): limonlu sorbe
-- [Apple Crumble](https://kuantumkimya.github.io/receteler/apple-crumble/): kıtır kaplı elma tatlısı
-- [Apple Cinnamon](https://kuantumkimya.github.io/receteler/apple-cinnamon/): elmalı tarçın
-- [Lemon Cheesecake](https://kuantumkimya.github.io/receteler/lemon-cheesecake/): limonlu cheesecake
-- [Raspberry Cheesecake](https://kuantumkimya.github.io/receteler/raspberry-cheesecake/): ahududulu cheesecake
-- [Mango Cheesecake](https://kuantumkimya.github.io/receteler/mango-cheesecake/): mangolu cheesecake
-- [Banana Nut Bread](https://kuantumkimya.github.io/receteler/banana-nut-bread/): muzlu kuruyemişli kek
-- [Snickerdoodle](https://kuantumkimya.github.io/receteler/snickerdoodle/): tarçınlı şekerli kurabiye
-- [Peanut Butter Cookie](https://kuantumkimya.github.io/receteler/peanut-butter-cookie/): fıstık ezmeli kurabiye
-- [Peanut Butter & Jelly](https://kuantumkimya.github.io/receteler/peanut-butter-jelly/): fıstık ezmesi ve çilek reçeli
-- [Lemon Cookie](https://kuantumkimya.github.io/receteler/lemon-cookie/): limonlu kurabiye
-- [Strawberry Macaron](https://kuantumkimya.github.io/receteler/strawberry-macaron/): çilekli makaron
-- [Vanilla Tart](https://kuantumkimya.github.io/receteler/vanilla-tart/): vanilyalı tart
-- [Red Velvet Cake](https://kuantumkimya.github.io/receteler/red-velvet-cake/): kırmızı kadife pasta
-- [Eton Mess](https://kuantumkimya.github.io/receteler/eton-mess/): çilek, beze ve krema
-- [Peach Melba](https://kuantumkimya.github.io/receteler/peach-melba/): şeftali, ahududu ve vanilyalı dondurma
-- [Strawberry Jam Toast](https://kuantumkimya.github.io/receteler/strawberry-jam-toast/): tereyağlı çilek reçelli kızarmış ekmek
-- [Cinnamon Toast Cereal](https://kuantumkimya.github.io/receteler/cinnamon-toast-cereal/): tarçınlı gevrek ve süt
-- [Cocoa Cereal](https://kuantumkimya.github.io/receteler/cocoa-cereal/): kakaolu gevrek ve süt
-- [Marshmallow Cereal](https://kuantumkimya.github.io/receteler/marshmallow-cereal/): marshmallowlu gevrek ve süt
-- [Caramel Custard](https://kuantumkimya.github.io/receteler/caramel-custard/): krem karamel
-- [Banana Custard](https://kuantumkimya.github.io/receteler/banana-custard/): muzlu muhallebi
-- [Coconut Cream Pie](https://kuantumkimya.github.io/receteler/coconut-cream-pie/): hindistan cevizli kremalı turta
-- [Neapolitan](https://kuantumkimya.github.io/receteler/neapolitan/): vanilya, çilek ve çikolatalı dondurma
-- [Profiterole](https://kuantumkimya.github.io/receteler/profiterole/): kremalı çikolatalı profiterol
-- [Caramel Macchiato](https://kuantumkimya.github.io/receteler/caramel-macchiato/): karamelli kahve
-- [Mocha](https://kuantumkimya.github.io/receteler/mocha/): çikolatalı kahve
-- [Hot Cocoa](https://kuantumkimya.github.io/receteler/hot-cocoa/): marshmallowlu sıcak çikolata
-- [Peanut Butter Cup](https://kuantumkimya.github.io/receteler/peanut-butter-cup/): çikolata kaplı fıstık ezmesi
-- [Coconut Almond Bar](https://kuantumkimya.github.io/receteler/coconut-almond-bar/): çikolata, hindistan cevizi ve badem
-- [Almond Cream](https://kuantumkimya.github.io/receteler/almond-cream/): kavrulmuş bademli krema
-- [Chocolate Banana](https://kuantumkimya.github.io/receteler/chocolate-banana/): çikolatalı muz
-- [Bourbon Tobacco](https://kuantumkimya.github.io/receteler/bourbon-tobacco/): burbonlu tütün
-- [Oak & Whisky](https://kuantumkimya.github.io/receteler/oak-whisky/): meşe ve viskili tütün
-- [Espresso Tobacco](https://kuantumkimya.github.io/receteler/espresso-tobacco/): kahveli tütün
-- [Chocolate RY4](https://kuantumkimya.github.io/receteler/chocolate-ry4/): çikolatalı karamelli tütün
-- [Almond Tobacco](https://kuantumkimya.github.io/receteler/almond-tobacco/): bademli tütün
-- [Soho Vanilla](https://kuantumkimya.github.io/receteler/soho-vanilla/): vanilyalı tütün
-- [Black Mile Cream](https://kuantumkimya.github.io/receteler/black-mile-cream/): kremalı koyu tütün
-- [Red Oak Custard](https://kuantumkimya.github.io/receteler/red-oak-custard/): meşeli tütün ve muhallebi
-- [Boss Reserve](https://kuantumkimya.github.io/receteler/boss-reserve/): karamelli fındıklı tütün
-- [Milk & Honey](https://kuantumkimya.github.io/receteler/milk-and-honey/): ballı süt
-- [Heisenberg](https://kuantumkimya.github.io/receteler/heisenberg/): buzlu orman meyvesi ve anason
-- [Lemon Lime](https://kuantumkimya.github.io/receteler/lemon-lime/): limon ve misket limonu
-- [Spearmint](https://kuantumkimya.github.io/receteler/spearmint/): nane
-- [Strawberry Milkshake](https://kuantumkimya.github.io/receteler/strawberry-milkshake/): çilekli milkshake
-- [Guava Passion](https://kuantumkimya.github.io/receteler/guava-passion/): guava ve çarkıfelek
-- [Hazelnut Latte](https://kuantumkimya.github.io/receteler/hazelnut-latte/): fındıklı sütlü kahve
-- [Blackberry Crumble](https://kuantumkimya.github.io/receteler/blackberry-crumble/): böğürtlenli kıtır tatlı
-- [Tropical Punch](https://kuantumkimya.github.io/receteler/tropical-punch/): tropik meyve punch
-- [Irish Cream](https://kuantumkimya.github.io/receteler/irish-cream/): İrlanda kreması ve kahve
-- [Cool Mint](https://kuantumkimya.github.io/receteler/cool-mint/): serin nane şekeri
-- [Chocolate Milk](https://kuantumkimya.github.io/receteler/chocolate-milk/): kakaolu süt
-- [Glazed Donut](https://kuantumkimya.github.io/receteler/glazed-donut/): şekerli donut
-- [Blue Raspberry Lemonade](https://kuantumkimya.github.io/receteler/blue-raspberry-lemonade/): mavi ahududulu limonata
-- [Apple Bacco](https://kuantumkimya.github.io/receteler/apple-bacco/): elmalı karamelli tütün
-- [Holiday Pie](https://kuantumkimya.github.io/receteler/holiday-pie/): kurabiye tabanlı muhallebili turta
-- [Cactus Tropical](https://kuantumkimya.github.io/receteler/cactus-tropical/): kaktüs ve orman meyveleri
-- [Butter Pecan Custard](https://kuantumkimya.github.io/receteler/butter-pecan-custard/): tereyağlı pekan cevizli muhallebi
-- [Guava Lime Candy](https://kuantumkimya.github.io/receteler/guava-lime-candy/): guava ve misket limonu şekeri
-- [Cronut](https://kuantumkimya.github.io/receteler/cronut/): kremalı kruvasan donut
-- [Rainbow Candy](https://kuantumkimya.github.io/receteler/rainbow-candy/): renkli meyve şekerleri
-- [Raspberry Lemonade](https://kuantumkimya.github.io/receteler/raspberry-lemonade/): ahududulu limonata
-- [Blueberry Muffin](https://kuantumkimya.github.io/receteler/blueberry-muffin/): yaban mersinli muffin
-- [Creme Brulee](https://kuantumkimya.github.io/receteler/creme-brulee/): krem brüle
-- [Funnel Cake](https://kuantumkimya.github.io/receteler/funnel-cake/): pudra şekerli kızarmış hamur
-- [French Toast](https://kuantumkimya.github.io/receteler/french-toast/): tarçınlı yumurtalı ekmek
-- [Rice Krispie Treats](https://kuantumkimya.github.io/receteler/rice-krispie-treats/): marshmallowlu pirinç patlağı
-- [Black Forest Cake](https://kuantumkimya.github.io/receteler/black-forest-cake/): kara orman pastası
-- [Honey Nut Cereal](https://kuantumkimya.github.io/receteler/honey-nut-cereal/): ballı kuruyemişli gevrek ve süt
-- [Baklava](https://kuantumkimya.github.io/receteler/baklava/): fıstıklı baklava
-- [Butterscotch Custard](https://kuantumkimya.github.io/receteler/butterscotch-custard/): tereyağlı karamelli muhallebi
-- [Mango Lassi](https://kuantumkimya.github.io/receteler/mango-lassi/): mangolu yoğurt içeceği
-- [Strawberry Milk](https://kuantumkimya.github.io/receteler/strawberry-milk/): çilekli süt
-- [Banana Milk](https://kuantumkimya.github.io/receteler/banana-milk/): muzlu süt
-- [Mint Chocolate Chip](https://kuantumkimya.github.io/receteler/mint-chocolate-chip/): naneli çikolata parçacıklı dondurma
-- [Pistachio Ice Cream](https://kuantumkimya.github.io/receteler/pistachio-ice-cream/): fıstıklı dondurma
-- [Raspberry Panna Cotta](https://kuantumkimya.github.io/receteler/raspberry-panna-cotta/): ahududulu panna cotta
-- [Orange Creamsicle](https://kuantumkimya.github.io/receteler/orange-creamsicle/): portakallı vanilyalı dondurma
-- [Sütlaç](https://kuantumkimya.github.io/receteler/sutlac/): fırın sütlaç
-- [Dulce de Leche](https://kuantumkimya.github.io/receteler/dulce-de-leche/): sütlü karamel
-- [Türk Kahvesi](https://kuantumkimya.github.io/receteler/turk-kahvesi/): orta şekerli Türk kahvesi
-- [Chocolate Hazelnut](https://kuantumkimya.github.io/receteler/chocolate-hazelnut/): fındıklı çikolata kreması
-- [Pistachio Cream](https://kuantumkimya.github.io/receteler/pistachio-cream/): fıstıklı krema
-- [Turkish Blend](https://kuantumkimya.github.io/receteler/turkish-blend/): Türk tütünü
-- [Cherry Pipe](https://kuantumkimya.github.io/receteler/cherry-pipe/): vişneli pipo tütünü
-- [Pink Lemonade](https://kuantumkimya.github.io/receteler/pink-lemonade/): çilekli pembe limonata
-- [Asap Grape](https://kuantumkimya.github.io/receteler/asap-grape/): buzlu üzüm
-- [Hawaiian POG](https://kuantumkimya.github.io/receteler/hawaiian-pog/): çarkıfelek, mandalina ve guava
-- [Queenside](https://kuantumkimya.github.io/receteler/queenside/): portakallı vanilya kreması
-- [Maiden’s Milk](https://kuantumkimya.github.io/receteler/maidens-milk/): çilekli cheesecake ve kek
-- [Pistachio Brulee](https://kuantumkimya.github.io/receteler/pistachio-brulee/): fıstıklı krem brüle ve tütün
-- [Blueberry Yogurt](https://kuantumkimya.github.io/receteler/blueberry-yogurt/): yaban mersinli yoğurt
-- [Cherry Limeade](https://kuantumkimya.github.io/receteler/cherry-limeade/): vişneli misket limonata
-- [Strawberry Mojito](https://kuantumkimya.github.io/receteler/strawberry-mojito/): çilekli mojito
-- [Grape Candy](https://kuantumkimya.github.io/receteler/grape-candy/): üzüm şekeri
-- [Key Lime Pie](https://kuantumkimya.github.io/receteler/key-lime-pie/): misket limonlu turta
-- [Cherry Pie](https://kuantumkimya.github.io/receteler/cherry-pie/): vişneli turta
-- [Pecan Pie](https://kuantumkimya.github.io/receteler/pecan-pie/): pekan cevizli turta
-- [Pumpkin Pie](https://kuantumkimya.github.io/receteler/pumpkin-pie/): baharatlı balkabağı turtası
-- [Belgian Waffle](https://kuantumkimya.github.io/receteler/belgian-waffle/): tereyağlı şuruplu waffle
-- [Horchata](https://kuantumkimya.github.io/receteler/horchata/): tarçınlı pirinç sütü
-- [Cuban Cigar](https://kuantumkimya.github.io/receteler/cuban-cigar/): Küba purosu
-- [Aftermath](https://kuantumkimya.github.io/receteler/aftermath/): yaban mersinli donut ve dondurma
-- [Daveberry Cheesecake](https://kuantumkimya.github.io/receteler/daveberry-cheesecake/): çilekli cheesecake ve turta tabanı
-- [Black Forest Bacco](https://kuantumkimya.github.io/receteler/black-forest-bacco/): vişneli çikolatalı tütün
+- [Tribeca](https://roxarkimya.com/receteler/tribeca/): vanilyalı, karamelli yumuşak tütün
+- [Castle Long](https://roxarkimya.com/receteler/castle-long/): vanilyalı, hindistan cevizli, karamelli tütün
+- [Lemon Tart](https://roxarkimya.com/receteler/lemon-tart/): limonlu tart
+- [Unicorn Milk](https://roxarkimya.com/receteler/unicorn-milk/): çilekli süt ve cheesecake
+- [Brain Freeze](https://roxarkimya.com/receteler/brain-freeze/): buzlu çilek ve nar
+- [Cheesecake](https://roxarkimya.com/receteler/cheesecake/): sade cheesecake
+- [Watermelon Ice](https://roxarkimya.com/receteler/watermelon-ice/): buzlu karpuz
+- [Lava Flow](https://roxarkimya.com/receteler/lava-flow/): çilek, ananas ve hindistan cevizi
+- [Strawberry Ice](https://roxarkimya.com/receteler/strawberry-ice/): buzlu çilek
+- [Menthol](https://roxarkimya.com/receteler/menthol/): saf mentol
+- [Strawberry Banana](https://roxarkimya.com/receteler/strawberry-banana/): çilek ve muz
+- [Mango Ice](https://roxarkimya.com/receteler/mango-ice/): buzlu mango
+- [Latte](https://roxarkimya.com/receteler/latte/): sütlü kahve
+- [Strawberry Kiwi](https://roxarkimya.com/receteler/strawberry-kiwi/): çilek ve kivi
+- [Cotton Candy](https://roxarkimya.com/receteler/cotton-candy/): pamuk şeker
+- [Peach Ice](https://roxarkimya.com/receteler/peach-ice/): buzlu şeftali
+- [Double Apple](https://roxarkimya.com/receteler/double-apple/): nargile elması
+- [Vanilla Custard](https://roxarkimya.com/receteler/vanilla-custard/): vanilyalı muhallebi
+- [Mango Peach](https://roxarkimya.com/receteler/mango-peach/): mango ve şeftali
+- [Blue Razz Ice](https://roxarkimya.com/receteler/blue-razz-ice/): buzlu mavi ahududu
+- [Apple Pie](https://roxarkimya.com/receteler/apple-pie/): elmalı turta
+- [Blueberry Bubblegum](https://roxarkimya.com/receteler/blueberry-bubblegum/): yaban mersinli sakız
+- [Strawberry Watermelon](https://roxarkimya.com/receteler/strawberry-watermelon/): çilek ve karpuz
+- [Vanilla Bean Ice Cream](https://roxarkimya.com/receteler/vanilla-bean-ice-cream/): vanilya taneli dondurma
+- [Watermelon Candy](https://roxarkimya.com/receteler/watermelon-candy/): ekşi karpuz şekeri
+- [Pineapple Ice](https://roxarkimya.com/receteler/pineapple-ice/): buzlu ananas
+- [Bubble Gum](https://roxarkimya.com/receteler/bubble-gum/): balonlu sakız
+- [Cinnamon Roll](https://roxarkimya.com/receteler/cinnamon-roll/): tarçınlı rulo çörek
+- [Strawberry Cheesecake](https://roxarkimya.com/receteler/strawberry-cheesecake/): çilekli cheesecake
+- [Looper](https://roxarkimya.com/receteler/looper/): meyveli halka gevrek ve süt
+- [Tiramisu](https://roxarkimya.com/receteler/tiramisu/): tiramisu
+- [Ella’s Shortbread](https://roxarkimya.com/receteler/ellas-shortbread/): tereyağlı vanilyalı kurabiye
+- [S’mores](https://roxarkimya.com/receteler/smores/): kızarmış marshmallow, bisküvi ve çikolata
+- [Black Honey](https://roxarkimya.com/receteler/black-honey/): ballı tütün
+- [Strawberry Fog](https://roxarkimya.com/receteler/strawberry-fog/): çilekli cheesecake kreması
+- [Nana Cream](https://roxarkimya.com/receteler/nana-cream/): muzlu krema
+- [Juicy Peach](https://roxarkimya.com/receteler/juicy-peach/): sulu şeftali
+- [Banana Split](https://roxarkimya.com/receteler/banana-split/): muzlu dondurma, çilek ve çikolata
+- [Fudge Brownie](https://roxarkimya.com/receteler/fudge-brownie/): yoğun çikolatalı brownie
+- [Strawberry Shortcake](https://roxarkimya.com/receteler/strawberry-shortcake/): çilekli kurabiyeli dondurma
+- [Blueberry Cheesecake](https://roxarkimya.com/receteler/blueberry-cheesecake/): yaban mersinli cheesecake
+- [Raspberry Sorbet](https://roxarkimya.com/receteler/raspberry-sorbet/): ahududulu sorbe
+- [Cavendish](https://roxarkimya.com/receteler/cavendish/): tatlı pipo tütünü
+- [Mixed Berry](https://roxarkimya.com/receteler/mixed-berry/): karışık orman meyveleri
+- [Arctic Berries](https://roxarkimya.com/receteler/arctic-berries/): buzlu orman meyveleri
+- [Fresh Watermelon](https://roxarkimya.com/receteler/fresh-watermelon/): taze karpuz
+- [Cush Man](https://roxarkimya.com/receteler/cush-man/): olgun mango
+- [RY4 Delight](https://roxarkimya.com/receteler/ry4-delight/): kremalı karamelli tütün
+- [VCT](https://roxarkimya.com/receteler/vct/): vanilyalı muhallebili tütün
+- [Captain Black](https://roxarkimya.com/receteler/captain-black/): vanilyalı pipo tütünü
+- [Mama Melons](https://roxarkimya.com/receteler/mama-melons/): kavun, mango ve papaya
+- [Frosted Flakes](https://roxarkimya.com/receteler/frosted-flakes/): şekerli mısır gevreği ve süt
+- [Kiss](https://roxarkimya.com/receteler/kiss/): çilekli sütlü çikolata
+- [Strawnana Custard](https://roxarkimya.com/receteler/strawnana-custard/): çilekli muzlu muhallebi
+- [Cinapple Fritter](https://roxarkimya.com/receteler/cinapple-fritter/): tarçınlı elmalı çörek
+- [Candybeca](https://roxarkimya.com/receteler/candybeca/): karamelli tütün ve bisküvi
+- [Tiger’s Blood](https://roxarkimya.com/receteler/tigers-blood/): karpuz, çilek ve hindistan cevizi
+- [Raspberry Custard](https://roxarkimya.com/receteler/raspberry-custard/): ahududulu muhallebi
+- [Sugar Rush](https://roxarkimya.com/receteler/sugar-rush/): şekerli kurabiye ve krema
+- [Birthday Cake](https://roxarkimya.com/receteler/birthday-cake/): kremalı doğum günü pastası
+- [Poptart](https://roxarkimya.com/receteler/poptart/): çilek dolgulu çıtır hamur
+- [Soft Choco Cookies](https://roxarkimya.com/receteler/soft-choco-cookies/): yumuşak çikolatalı kurabiye
+- [Banana Pudding](https://roxarkimya.com/receteler/banana-pudding/): muzlu puding ve bisküvi
+- [Carabeca](https://roxarkimya.com/receteler/carabeca/): karamelli vanilyalı tütün
+- [Twister Lolly](https://roxarkimya.com/receteler/twister-lolly/): ananaslı çilekli buz dondurma
+- [Snowy Fuji](https://roxarkimya.com/receteler/snowy-fuji/): serin elma ve krema
+- [Barney Rubble](https://roxarkimya.com/receteler/barney-rubble/): meyveli pirinç gevreği ve süt
+- [Pineapple Cheesecake](https://roxarkimya.com/receteler/pineapple-cheesecake/): ananaslı cheesecake
+- [Lemon Pound Cake](https://roxarkimya.com/receteler/lemon-pound-cake/): limonlu kek
+- [Cinnamon Cookie Custard](https://roxarkimya.com/receteler/cinnamon-cookie-custard/): tarçınlı kurabiye ve muhallebi
+- [Sparkling Apple Peach](https://roxarkimya.com/receteler/sparkling-apple-peach/): köpüklü elma ve şeftali
+- [Butter Cookies](https://roxarkimya.com/receteler/butter-cookies/): tereyağlı kurabiye
+- [Dragon Fruit Cream](https://roxarkimya.com/receteler/dragon-fruit-cream/): ejder meyveli krema
+- [Strawberry Ice Cream](https://roxarkimya.com/receteler/strawberry-ice-cream/): çilekli dondurma
+- [Cereal Milk](https://roxarkimya.com/receteler/cereal-milk/): mısır gevrekli süt
+- [Cannoli](https://roxarkimya.com/receteler/cannoli/): İtalyan ricottalı tatlısı
+- [Cookies and Cream](https://roxarkimya.com/receteler/cookies-and-cream/): kakaolu bisküvili dondurma
+- [Peaches and Cream](https://roxarkimya.com/receteler/peaches-and-cream/): şeftalili krema
+- [Strawberries and Cream](https://roxarkimya.com/receteler/strawberries-and-cream/): çilek ve krema
+- [Piña Colada](https://roxarkimya.com/receteler/pina-colada/): ananas ve hindistan cevizi kreması
+- [Lemon Meringue Pie](https://roxarkimya.com/receteler/lemon-meringue-pie/): limonlu beze turtası
+- [Peach Cobbler](https://roxarkimya.com/receteler/peach-cobbler/): fırında şeftali tatlısı
+- [Churros](https://roxarkimya.com/receteler/churros/): tarçınlı çıtır hamur ve çikolata
+- [Caramel Apple](https://roxarkimya.com/receteler/caramel-apple/): karamel kaplı elma
+- [Gummy Bears](https://roxarkimya.com/receteler/gummy-bears/): meyveli ayıcık şekeri
+- [Peach Rings](https://roxarkimya.com/receteler/peach-rings/): ekşi şeftali halka şekeri
+- [Mango Strawberry](https://roxarkimya.com/receteler/mango-strawberry/): mango ve çilek
+- [Sour Green Apple](https://roxarkimya.com/receteler/sour-green-apple/): ekşi yeşil elma
+- [Honeydew Melon](https://roxarkimya.com/receteler/honeydew-melon/): bal kavunu
+- [Melon Trio](https://roxarkimya.com/receteler/melon-trio/): kavun, bal kavunu ve karpuz
+- [Kiwi Dragonfruit](https://roxarkimya.com/receteler/kiwi-dragonfruit/): kivi ve ejder meyvesi
+- [Strawberry Guava](https://roxarkimya.com/receteler/strawberry-guava/): çilek ve guava
+- [Apple Kiwi](https://roxarkimya.com/receteler/apple-kiwi/): elma ve kivi
+- [Blueberry Lemon](https://roxarkimya.com/receteler/blueberry-lemon/): yaban mersini ve limon
+- [Pomegranate Raspberry](https://roxarkimya.com/receteler/pomegranate-raspberry/): nar ve ahududu
+- [Lemon Sorbet](https://roxarkimya.com/receteler/lemon-sorbet/): limonlu sorbe
+- [Apple Crumble](https://roxarkimya.com/receteler/apple-crumble/): kıtır kaplı elma tatlısı
+- [Apple Cinnamon](https://roxarkimya.com/receteler/apple-cinnamon/): elmalı tarçın
+- [Lemon Cheesecake](https://roxarkimya.com/receteler/lemon-cheesecake/): limonlu cheesecake
+- [Raspberry Cheesecake](https://roxarkimya.com/receteler/raspberry-cheesecake/): ahududulu cheesecake
+- [Mango Cheesecake](https://roxarkimya.com/receteler/mango-cheesecake/): mangolu cheesecake
+- [Banana Nut Bread](https://roxarkimya.com/receteler/banana-nut-bread/): muzlu kuruyemişli kek
+- [Snickerdoodle](https://roxarkimya.com/receteler/snickerdoodle/): tarçınlı şekerli kurabiye
+- [Peanut Butter Cookie](https://roxarkimya.com/receteler/peanut-butter-cookie/): fıstık ezmeli kurabiye
+- [Peanut Butter & Jelly](https://roxarkimya.com/receteler/peanut-butter-jelly/): fıstık ezmesi ve çilek reçeli
+- [Lemon Cookie](https://roxarkimya.com/receteler/lemon-cookie/): limonlu kurabiye
+- [Strawberry Macaron](https://roxarkimya.com/receteler/strawberry-macaron/): çilekli makaron
+- [Vanilla Tart](https://roxarkimya.com/receteler/vanilla-tart/): vanilyalı tart
+- [Red Velvet Cake](https://roxarkimya.com/receteler/red-velvet-cake/): kırmızı kadife pasta
+- [Eton Mess](https://roxarkimya.com/receteler/eton-mess/): çilek, beze ve krema
+- [Peach Melba](https://roxarkimya.com/receteler/peach-melba/): şeftali, ahududu ve vanilyalı dondurma
+- [Strawberry Jam Toast](https://roxarkimya.com/receteler/strawberry-jam-toast/): tereyağlı çilek reçelli kızarmış ekmek
+- [Cinnamon Toast Cereal](https://roxarkimya.com/receteler/cinnamon-toast-cereal/): tarçınlı gevrek ve süt
+- [Cocoa Cereal](https://roxarkimya.com/receteler/cocoa-cereal/): kakaolu gevrek ve süt
+- [Marshmallow Cereal](https://roxarkimya.com/receteler/marshmallow-cereal/): marshmallowlu gevrek ve süt
+- [Caramel Custard](https://roxarkimya.com/receteler/caramel-custard/): krem karamel
+- [Banana Custard](https://roxarkimya.com/receteler/banana-custard/): muzlu muhallebi
+- [Coconut Cream Pie](https://roxarkimya.com/receteler/coconut-cream-pie/): hindistan cevizli kremalı turta
+- [Neapolitan](https://roxarkimya.com/receteler/neapolitan/): vanilya, çilek ve çikolatalı dondurma
+- [Profiterole](https://roxarkimya.com/receteler/profiterole/): kremalı çikolatalı profiterol
+- [Caramel Macchiato](https://roxarkimya.com/receteler/caramel-macchiato/): karamelli kahve
+- [Mocha](https://roxarkimya.com/receteler/mocha/): çikolatalı kahve
+- [Hot Cocoa](https://roxarkimya.com/receteler/hot-cocoa/): marshmallowlu sıcak çikolata
+- [Peanut Butter Cup](https://roxarkimya.com/receteler/peanut-butter-cup/): çikolata kaplı fıstık ezmesi
+- [Coconut Almond Bar](https://roxarkimya.com/receteler/coconut-almond-bar/): çikolata, hindistan cevizi ve badem
+- [Almond Cream](https://roxarkimya.com/receteler/almond-cream/): kavrulmuş bademli krema
+- [Chocolate Banana](https://roxarkimya.com/receteler/chocolate-banana/): çikolatalı muz
+- [Bourbon Tobacco](https://roxarkimya.com/receteler/bourbon-tobacco/): burbonlu tütün
+- [Oak & Whisky](https://roxarkimya.com/receteler/oak-whisky/): meşe ve viskili tütün
+- [Espresso Tobacco](https://roxarkimya.com/receteler/espresso-tobacco/): kahveli tütün
+- [Chocolate RY4](https://roxarkimya.com/receteler/chocolate-ry4/): çikolatalı karamelli tütün
+- [Almond Tobacco](https://roxarkimya.com/receteler/almond-tobacco/): bademli tütün
+- [Soho Vanilla](https://roxarkimya.com/receteler/soho-vanilla/): vanilyalı tütün
+- [Black Mile Cream](https://roxarkimya.com/receteler/black-mile-cream/): kremalı koyu tütün
+- [Red Oak Custard](https://roxarkimya.com/receteler/red-oak-custard/): meşeli tütün ve muhallebi
+- [Boss Reserve](https://roxarkimya.com/receteler/boss-reserve/): karamelli fındıklı tütün
+- [Milk & Honey](https://roxarkimya.com/receteler/milk-and-honey/): ballı süt
+- [Heisenberg](https://roxarkimya.com/receteler/heisenberg/): buzlu orman meyvesi ve anason
+- [Lemon Lime](https://roxarkimya.com/receteler/lemon-lime/): limon ve misket limonu
+- [Spearmint](https://roxarkimya.com/receteler/spearmint/): nane
+- [Strawberry Milkshake](https://roxarkimya.com/receteler/strawberry-milkshake/): çilekli milkshake
+- [Guava Passion](https://roxarkimya.com/receteler/guava-passion/): guava ve çarkıfelek
+- [Hazelnut Latte](https://roxarkimya.com/receteler/hazelnut-latte/): fındıklı sütlü kahve
+- [Blackberry Crumble](https://roxarkimya.com/receteler/blackberry-crumble/): böğürtlenli kıtır tatlı
+- [Tropical Punch](https://roxarkimya.com/receteler/tropical-punch/): tropik meyve punch
+- [Irish Cream](https://roxarkimya.com/receteler/irish-cream/): İrlanda kreması ve kahve
+- [Cool Mint](https://roxarkimya.com/receteler/cool-mint/): serin nane şekeri
+- [Chocolate Milk](https://roxarkimya.com/receteler/chocolate-milk/): kakaolu süt
+- [Glazed Donut](https://roxarkimya.com/receteler/glazed-donut/): şekerli donut
+- [Blue Raspberry Lemonade](https://roxarkimya.com/receteler/blue-raspberry-lemonade/): mavi ahududulu limonata
+- [Apple Bacco](https://roxarkimya.com/receteler/apple-bacco/): elmalı karamelli tütün
+- [Holiday Pie](https://roxarkimya.com/receteler/holiday-pie/): kurabiye tabanlı muhallebili turta
+- [Cactus Tropical](https://roxarkimya.com/receteler/cactus-tropical/): kaktüs ve orman meyveleri
+- [Butter Pecan Custard](https://roxarkimya.com/receteler/butter-pecan-custard/): tereyağlı pekan cevizli muhallebi
+- [Guava Lime Candy](https://roxarkimya.com/receteler/guava-lime-candy/): guava ve misket limonu şekeri
+- [Cronut](https://roxarkimya.com/receteler/cronut/): kremalı kruvasan donut
+- [Rainbow Candy](https://roxarkimya.com/receteler/rainbow-candy/): renkli meyve şekerleri
+- [Raspberry Lemonade](https://roxarkimya.com/receteler/raspberry-lemonade/): ahududulu limonata
+- [Blueberry Muffin](https://roxarkimya.com/receteler/blueberry-muffin/): yaban mersinli muffin
+- [Creme Brulee](https://roxarkimya.com/receteler/creme-brulee/): krem brüle
+- [Funnel Cake](https://roxarkimya.com/receteler/funnel-cake/): pudra şekerli kızarmış hamur
+- [French Toast](https://roxarkimya.com/receteler/french-toast/): tarçınlı yumurtalı ekmek
+- [Rice Krispie Treats](https://roxarkimya.com/receteler/rice-krispie-treats/): marshmallowlu pirinç patlağı
+- [Black Forest Cake](https://roxarkimya.com/receteler/black-forest-cake/): kara orman pastası
+- [Honey Nut Cereal](https://roxarkimya.com/receteler/honey-nut-cereal/): ballı kuruyemişli gevrek ve süt
+- [Baklava](https://roxarkimya.com/receteler/baklava/): fıstıklı baklava
+- [Butterscotch Custard](https://roxarkimya.com/receteler/butterscotch-custard/): tereyağlı karamelli muhallebi
+- [Mango Lassi](https://roxarkimya.com/receteler/mango-lassi/): mangolu yoğurt içeceği
+- [Strawberry Milk](https://roxarkimya.com/receteler/strawberry-milk/): çilekli süt
+- [Banana Milk](https://roxarkimya.com/receteler/banana-milk/): muzlu süt
+- [Mint Chocolate Chip](https://roxarkimya.com/receteler/mint-chocolate-chip/): naneli çikolata parçacıklı dondurma
+- [Pistachio Ice Cream](https://roxarkimya.com/receteler/pistachio-ice-cream/): fıstıklı dondurma
+- [Raspberry Panna Cotta](https://roxarkimya.com/receteler/raspberry-panna-cotta/): ahududulu panna cotta
+- [Orange Creamsicle](https://roxarkimya.com/receteler/orange-creamsicle/): portakallı vanilyalı dondurma
+- [Sütlaç](https://roxarkimya.com/receteler/sutlac/): fırın sütlaç
+- [Dulce de Leche](https://roxarkimya.com/receteler/dulce-de-leche/): sütlü karamel
+- [Türk Kahvesi](https://roxarkimya.com/receteler/turk-kahvesi/): orta şekerli Türk kahvesi
+- [Chocolate Hazelnut](https://roxarkimya.com/receteler/chocolate-hazelnut/): fındıklı çikolata kreması
+- [Pistachio Cream](https://roxarkimya.com/receteler/pistachio-cream/): fıstıklı krema
+- [Turkish Blend](https://roxarkimya.com/receteler/turkish-blend/): Türk tütünü
+- [Cherry Pipe](https://roxarkimya.com/receteler/cherry-pipe/): vişneli pipo tütünü
+- [Pink Lemonade](https://roxarkimya.com/receteler/pink-lemonade/): çilekli pembe limonata
+- [Asap Grape](https://roxarkimya.com/receteler/asap-grape/): buzlu üzüm
+- [Hawaiian POG](https://roxarkimya.com/receteler/hawaiian-pog/): çarkıfelek, mandalina ve guava
+- [Queenside](https://roxarkimya.com/receteler/queenside/): portakallı vanilya kreması
+- [Maiden’s Milk](https://roxarkimya.com/receteler/maidens-milk/): çilekli cheesecake ve kek
+- [Pistachio Brulee](https://roxarkimya.com/receteler/pistachio-brulee/): fıstıklı krem brüle ve tütün
+- [Blueberry Yogurt](https://roxarkimya.com/receteler/blueberry-yogurt/): yaban mersinli yoğurt
+- [Cherry Limeade](https://roxarkimya.com/receteler/cherry-limeade/): vişneli misket limonata
+- [Strawberry Mojito](https://roxarkimya.com/receteler/strawberry-mojito/): çilekli mojito
+- [Grape Candy](https://roxarkimya.com/receteler/grape-candy/): üzüm şekeri
+- [Key Lime Pie](https://roxarkimya.com/receteler/key-lime-pie/): misket limonlu turta
+- [Cherry Pie](https://roxarkimya.com/receteler/cherry-pie/): vişneli turta
+- [Pecan Pie](https://roxarkimya.com/receteler/pecan-pie/): pekan cevizli turta
+- [Pumpkin Pie](https://roxarkimya.com/receteler/pumpkin-pie/): baharatlı balkabağı turtası
+- [Belgian Waffle](https://roxarkimya.com/receteler/belgian-waffle/): tereyağlı şuruplu waffle
+- [Horchata](https://roxarkimya.com/receteler/horchata/): tarçınlı pirinç sütü
+- [Cuban Cigar](https://roxarkimya.com/receteler/cuban-cigar/): Küba purosu
+- [Aftermath](https://roxarkimya.com/receteler/aftermath/): yaban mersinli donut ve dondurma
+- [Daveberry Cheesecake](https://roxarkimya.com/receteler/daveberry-cheesecake/): çilekli cheesecake ve turta tabanı
+- [Black Forest Bacco](https://roxarkimya.com/receteler/black-forest-bacco/): vişneli çikolatalı tütün
