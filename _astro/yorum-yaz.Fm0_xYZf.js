@@ -1,0 +1,53 @@
+import{i as e,n as t,o as n,r}from"./shop-api.pO3wzGkX.js";import{t as i}from"./sayfa-verisi.DEULxSNS.js";var a={puanEnAz:1,puanEnCok:5,metinEnAz:10,metinEnCok:2e3,ozetEnCok:120,oranEnAz:.1,oranEnCok:50,demlemeEnAz:0,demlemeEnCok:365,bazVgEnAz:0,bazVgEnCok:100},o={photoMaxBytes:5242880,photoBodyLimit:102400},s=`
+    query YorumAyarlari($id: ID!) {
+        urun: product(id: $id) {
+            reviewSettings {
+                photoLimit
+                photoMaxBytes
+                photoBodyLimit
+            }
+        }
+    }
+`,c=`
+    mutation YorumGonder($girdi: SubmitProductReviewInput!) {
+        yorum: submitProductReview(input: $girdi) {
+            id
+            durum: state
+            puan: rating
+        }
+    }
+`,l=`
+    query YorumYazilabilir($id: ID!) {
+        urun: product(id: $id) {
+            canReview
+        }
+    }
+`;function u(e){let t=Number(e.puan);if(!Number.isInteger(t)||t<a.puanEnAz||t>a.puanEnCok)return`YORUM_PUAN`;let n=(e.metin??``).trim();if(n.length<a.metinEnAz||n.length>a.metinEnCok)return`YORUM_METIN`;if((e.ozet??``).trim().length>a.ozetEnCok)return`YORUM_OZET`;if(e.oran!=null){let t=Number(e.oran);if(!Number.isFinite(t)||t<=0||t>a.oranEnCok)return`YORUM_KULLANIM`}if(e.demlemeGun!=null){let t=Number(e.demlemeGun);if(!Number.isInteger(t)||t<a.demlemeEnAz||t>a.demlemeEnCok)return`YORUM_KULLANIM`}if(e.cihaz!=null&&String(e.cihaz).trim()!==``){let t=String(e.cihaz).trim().toUpperCase();if(t!==`MTL`&&t!==`DL`)return`YORUM_KULLANIM`}if(e.bazVg!=null){let t=Number(e.bazVg);if(!Number.isInteger(t)||t<a.bazVgEnAz||t>a.bazVgEnCok)return`YORUM_KULLANIM`}if(e.misafir){let t=(e.misafirAd??``).trim(),n=(e.misafirEposta??``).trim();if(t.length<2||t.length>80||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(n)||!(e.siparisNo??``).trim())return`YORUM_MISAFIR`}return null}function d(e){let t={productId:e.urunId.trim(),rating:Number(e.puan),body:(e.metin??``).trim()},n=(e.ozet??``).trim();return n&&(t.summary=n),e.oran!=null&&Number.isFinite(Number(e.oran))&&(t.usageRatio=Number(e.oran)),e.demlemeGun!=null&&String(e.demlemeGun).trim()!==``&&(t.usageSteepDays=Number(e.demlemeGun)),e.cihaz!=null&&String(e.cihaz).trim()!==``&&(t.usageDevice=String(e.cihaz).trim().toUpperCase()),e.bazVg!=null&&String(e.bazVg).trim()!==``&&(t.usageBaseVg=Number(e.bazVg)),e.misafir&&(t.guestName=(e.misafirAd??``).trim(),t.guestEmail=(e.misafirEposta??``).trim(),t.orderNumber=(e.siparisNo??``).trim()),e.clientReviewId&&(t.clientReviewId=e.clientReviewId),e.photos?.length&&(t.photos=e.photos),t}async function f(i){let a=u(i);if(a)return{basarili:!1,kod:a};if(!e()&&!i.misafir)return{basarili:!1,kod:`YORUM_GIRIS`};try{let e=await n(c,{girdi:d(i)});return e.yorum?{basarili:!0,veri:{gonderildi:!0,yorum:e.yorum}}:{basarili:!1,kod:`YORUM_BEKLENMEYEN`}}catch(e){if(r(e))return{basarili:!1,kod:`YORUM_AG`};if(e instanceof t){if(e.kod===`FORBIDDEN`)return{basarili:!1,kod:i.misafir?`YORUM_MISAFIR`:`YORUM_GIRIS`};if(e.kod===`USER_INPUT_ERROR`){let e=await p(i.urunId);return e.basarili&&!e.veri?{basarili:!1,kod:`YORUM_TESLIM`}:{basarili:!1,kod:`YORUM_BEKLENMEYEN`}}}return{basarili:!1,kod:`YORUM_BEKLENMEYEN`}}}async function p(e){let t=(e??``).trim();if(!t)return{basarili:!1,kod:`YORUM_BEKLENMEYEN`};try{return{basarili:!0,veri:!!(await n(l,{id:t})).urun?.canReview}}catch(e){return r(e)?{basarili:!1,kod:`YORUM_AG`}:{basarili:!1,kod:`YORUM_BEKLENMEYEN`}}}var m=`
+    query YorumDaveti($token: String!) {
+        productReviewInvite(token: $token) {
+            orderNumber
+            customerFirstName
+            shippedAt
+            submissionsOpen
+            guestReviewsEnabled
+            photosEnabled
+            photoLimit
+            alreadyReviewed
+            products {
+                productId
+                name
+                slug
+                image
+                reviewId
+                reviewed
+            }
+        }
+    }
+`,h=`
+    mutation YorumGonder($girdi: SubmitProductReviewInput!) {
+        submitProductReview(input: $girdi) {
+            id
+            state
+        }
+    }
+`;if(typeof document<`u`){let e=()=>{let e=document.querySelector(`[data-yorum-sayfa]`);e&&e.dataset.yorumKuruldu!==`1`&&(e.dataset.yorumKuruldu=`1`,g(e))};e(),document.addEventListener(`astro:page-load`,e)}function g(e){let t=e.querySelector(`[data-yorum-durum]`),r=i(e,`[data-yorum-yazilari]`);if(!r){t&&(t.textContent=t.dataset.hata??``);return}let a=r,o=e.querySelector(`[data-yorum-baslik]`),s=e.querySelector(`[data-yorum-siparis]`),c=e.querySelector(`[data-yorum-kargo]`),l=e.querySelector(`[data-yorum-urunler]`),u=new URL(location.href),d=u.searchParams.get(`d`)||u.searchParams.get(`t`)||``;d&&(u.searchParams.delete(`d`),u.searchParams.delete(`t`),history.replaceState(null,``,u.pathname+(u.search?u.search:``)+u.hash));let f=e=>{t&&(t.textContent=e)};if(!d){f(a.gecersiz);return}p();async function p(){try{let e=(await n(m,{token:d})).productReviewInvite;if(!e){f(a.gecersiz);return}if(s&&(s.textContent=`${a.siparis} #${e.orderNumber}`),c&&(c.textContent=`${a.kargo} ${e.shippedAt?_(e.shippedAt):`-`}`),o&&(o.hidden=!1),!e.submissionsOpen){f(a.kapali);return}f(``);let t=e.photosEnabled&&e.products.length>0?O(e.products[0].productId):Promise.resolve(D());l&&l.replaceChildren(...e.products.map(n=>y(n,e,a,d,t)))}catch{f(a.hata)}}}function _(e){let t=new Date(e);return Number.isNaN(t.getTime())?`-`:new Intl.DateTimeFormat(`tr-TR`,{day:`numeric`,month:`long`,year:`numeric`}).format(t)}function v(e,t){return String(e??``).replace(/\{sayi\}/g,String(t))}function y(e,t,r,i,a){let o=document.createElement(`article`);o.className=`yorum-urun-karti`;let s=document.createElement(`h3`);if(s.textContent=e.name,o.append(s),e.reviewed){let e=document.createElement(`p`);return e.textContent=r.degerlendirildi,o.append(e),o}let c=document.createElement(`div`);c.className=`yorum-yildizlar`,c.setAttribute(`role`,`radiogroup`),c.setAttribute(`aria-label`,r.puan);for(let t of r.yildizlar){let n=document.createElement(`input`);n.type=`radio`,n.name=`puan-${e.productId}`,n.id=`puan-${e.productId}-${t.puan}`,n.value=String(t.puan),n.checked=t.puan===5;let r=document.createElement(`label`);r.htmlFor=n.id,r.textContent=`★`,r.title=t.ad,c.append(n,r)}o.append(c);let l=b(`text`,r.ozet,`ozet-${e.productId}`),u=b(`textarea`,r.metin,`metin-${e.productId}`);o.append(l.kap,u.kap);let d=null;if(t.photosEnabled){let n=b(`file`,r.foto,`foto-${e.productId}`);d=n.girdi,d.accept=`image/jpeg,image/png,image/webp`,d.multiple=!0;let i=document.createElement(`p`);i.textContent=v(r.fotoNot,t.photoLimit),n.kap.append(i),o.append(n.kap)}let f=document.createElement(`p`);f.setAttribute(`role`,`status`);let p=document.createElement(`button`);return p.type=`button`,p.className=`dugme ana`,p.textContent=r.gonder,p.addEventListener(`click`,async()=>{let m=c.querySelector(`input:checked`),g=u.girdi.value.trim();if(!m||g.length<10)f.textContent=r.hata;else{p.disabled=!0,f.textContent=r.yukleniyor;try{let c=[];if(d?.files?.length){let e=await a,n=await j(Array.from(d.files),e,t.photoLimit);if(n.hata){f.textContent=r.hata;return}for(let e of n.dataUrlListesi)c.push({dataUrl:e})}await n(h,{girdi:{productId:e.productId,inviteToken:i,rating:Number(m.value),body:g,summary:l.girdi.value.trim()||null,clientReviewId:x(),photos:c.length?c:null}}),o.replaceChildren(s);let u=document.createElement(`p`);if(u.textContent=r.basarili,o.append(u),document.querySelectorAll(`.yorum-urun-karti [role="status"]`).length===0){let e=document.querySelector(`[data-yorum-durum]`);e&&(e.textContent=r.basarili)}}catch{f.textContent=r.hata}finally{p.disabled=!1}}}),o.append(f,p),o}function b(e,t,n){let r=document.createElement(`div`);r.className=`yorum-alan`;let i=document.createElement(`label`);i.htmlFor=n,i.textContent=t;let a=document.createElement(e===`textarea`?`textarea`:`input`);return e===`file`?a.type=`file`:e!==`textarea`&&(a.type=`text`),a.id=n,e===`textarea`?(a.rows=5,a.maxLength=2e3,a.minLength=10):e===`text`&&(a.maxLength=120),r.append(i,a),{kap:r,girdi:a}}function x(){return crypto.randomUUID?crypto.randomUUID():`y-${Date.now()}-${Math.random().toString(16).slice(2)}`}var S=1600,C=.82,w=4096,T=16;function E(e,t){let n=Number(e);return Number.isFinite(n)&&n>0?Math.floor(n):t}function D(e){return{photoMaxBytes:E(e?.photoMaxBytes,o.photoMaxBytes),photoBodyLimit:E(e?.photoBodyLimit,o.photoBodyLimit)}}async function O(e){if(!e)return D();try{return D((await n(s,{id:e})).urun?.reviewSettings)}catch{return D()}}function k(e){return`data:${e.type||`application/octet-stream`};base64,`.length+Math.ceil(e.size/3)*4}function A(e,t){return e.some(e=>e.size>t.photoMaxBytes)?!0:e.reduce((e,t)=>e+k(t)+T,0)+w>t.photoBodyLimit}async function j(e,t,n=1/0){let r=Number.isFinite(n)?Math.max(0,Math.floor(n)):e.length,i=e.slice(0,r);if(i.some(e=>e.size>t.photoMaxBytes))return{dataUrlListesi:[],toplamBoy:0,hata:`foto-boyut`};let a=[],o=0;for(let e of i){let n=await P(e);if(o+=n.length+T,o+w>t.photoBodyLimit)return{dataUrlListesi:[],toplamBoy:o,hata:`govde-boyut`};a.push(n)}return{dataUrlListesi:a,toplamBoy:o,hata:null}}async function M(e){if(typeof createImageBitmap==`function`)try{let t=await createImageBitmap(e,{imageOrientation:`from-image`});return{kaynak:t,genislik:t.width,yukseklik:t.height,bitti:()=>t.close()}}catch{}let t=URL.createObjectURL(e);try{let e=new Image;return await new Promise((n,r)=>{e.onload=()=>n(void 0),e.onerror=()=>r(Error(`görsel çözülemedi`)),e.src=t}),{kaynak:e,genislik:e.naturalWidth,yukseklik:e.naturalHeight,bitti:()=>URL.revokeObjectURL(t)}}catch{return URL.revokeObjectURL(t),null}}async function N(e){let t=await M(e);if(!t)return null;try{let e=Math.min(1,S/Math.max(t.genislik,t.yukseklik)),n=Math.max(1,Math.round(t.genislik*e)),r=Math.max(1,Math.round(t.yukseklik*e)),i=document.createElement(`canvas`);i.width=n,i.height=r;let a=i.getContext(`2d`);if(!a)return null;a.drawImage(t.kaynak,0,0,n,r);let o=i.toDataURL(`image/webp`,C);if(o.startsWith(`data:image/webp`))return o;a.fillStyle=`#ffffff`,a.fillRect(0,0,n,r),a.drawImage(t.kaynak,0,0,n,r);let s=i.toDataURL(`image/jpeg`,C);return s.startsWith(`data:image/`)?s:null}finally{t.bitti()}}async function P(e){let t=await N(e).catch(()=>null);return t&&t.length<k(e)?t:F(e)}function F(e){return new Promise((t,n)=>{let r=new FileReader;r.onload=()=>t(String(r.result??``)),r.onerror=()=>n(r.error),r.readAsDataURL(e)})}export{f as a,u as i,D as n,p as o,O as r,A as t};

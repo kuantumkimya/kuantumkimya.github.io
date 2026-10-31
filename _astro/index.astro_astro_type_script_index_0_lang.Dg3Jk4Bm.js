@@ -1,1 +1,0 @@
-import"./yorum-yaz.BjCE4fBX.js";

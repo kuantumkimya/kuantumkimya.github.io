@@ -1,0 +1,1 @@
+function e(e,t){let n=e.querySelector(t)?.textContent;if(!n)return null;try{return JSON.parse(n)}catch{return null}}export{e as t};
