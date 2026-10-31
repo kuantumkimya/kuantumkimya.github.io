@@ -189,7 +189,6 @@ Sitenin adresi: https://roxarkimya.com/
 - [Soho Vanilla](https://roxarkimya.com/receteler/soho-vanilla/): vanilyalı tütün
 - [Black Mile Cream](https://roxarkimya.com/receteler/black-mile-cream/): kremalı koyu tütün
 - [Red Oak Custard](https://roxarkimya.com/receteler/red-oak-custard/): meşeli tütün ve muhallebi
-- [Boss Reserve](https://roxarkimya.com/receteler/boss-reserve/): karamelli fındıklı tütün
 - [Milk & Honey](https://roxarkimya.com/receteler/milk-and-honey/): ballı süt
 - [Heisenberg](https://roxarkimya.com/receteler/heisenberg/): buzlu orman meyvesi ve anason
 - [Lemon Lime](https://roxarkimya.com/receteler/lemon-lime/): limon ve misket limonu
@@ -235,6 +234,8 @@ Sitenin adresi: https://roxarkimya.com/
 - [Pistachio Cream](https://roxarkimya.com/receteler/pistachio-cream/): fıstıklı krema
 - [Turkish Blend](https://roxarkimya.com/receteler/turkish-blend/): Türk tütünü
 - [Cherry Pipe](https://roxarkimya.com/receteler/cherry-pipe/): vişneli pipo tütünü
+- [Caramel Hazelnut Tobacco](https://roxarkimya.com/receteler/caramel-hazelnut-tobacco/): karamelli fındıklı tütün
+- [Boss Reserve](https://roxarkimya.com/receteler/boss-reserve/): muzlu fıstık ezmeli bisküvi
 - [Pink Lemonade](https://roxarkimya.com/receteler/pink-lemonade/): çilekli pembe limonata
 - [Asap Grape](https://roxarkimya.com/receteler/asap-grape/): buzlu üzüm
 - [Hawaiian POG](https://roxarkimya.com/receteler/hawaiian-pog/): çarkıfelek, mandalina ve guava
